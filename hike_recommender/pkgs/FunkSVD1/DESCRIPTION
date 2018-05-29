@@ -1,0 +1,11 @@
+Package: FunkSVD1
+Type: Package
+Title: Performs SVD with Gradient Descent 
+Version: 0.1.0
+Author: Ankush Garg
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Performs SVD using a gradient descent 
+    Use four spaces when indenting paragraphs within the Description.
+License: UCB
+Encoding: UTF-8
+LazyData: true

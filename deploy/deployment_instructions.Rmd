@@ -1,0 +1,57 @@
+---
+title: "Deployment instructions"
+subtitle: "Eureka, I found a hike!"
+author: "Ankush Garg"
+date: "5/28/2018"
+output: 
+  html_document:
+    toc: true
+    number_sections: false
+    theme: lumen
+    highlight: espresso
+---
+
+## Unbundle packrat 
+
+1. In the project repository, unbundle "packrat-final-2018-05-27.tar.gz" using packrat.
+
+2. Filepath = "..../csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz"
+
+The ..... in front of before the csx415 is the location where you've cloned the repository.
+
+
+### Follow steps below to unpack the bundle 
+
+1. Set "..../csx415-project/hike_recommender/app/" as the working directory 
+
+2. install.packages"packrat" 
+
+3. library(packrat)
+
+4. packrat::unbundle(*"..../csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz"*, where = ".")
+
+Packrat will install all package dependencies required for the application to run in 1 go. 
+
+## Run Shiny application 
+
+1. Open helpercode.R file in the *"..../csx415-project/hike_recommender/app/"* which should already be set to the working directory
+
+2. Open *app_working_manhattan.R* in same folder - *this is where the shiny application code is placed*
+
+3. Look for Run App in RStudio to run the application
+
+
+## Choose a hike and get recommendations
+
+1. From the dropdown choose a hike that you've done before
+
+2. The application will give 5 similar hikes as outputs based on trail similarity 
+
+You can choose to google these hikes to find more information for your recommendations on Alltrails website.
+  
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+---
+title: "Formal proposal document"
+subtitle: "Eureka, I found a hike!"
+author: "Ankush Garg"
+date: "5/28/2018"
+output: 
+  html_document:
+    toc: true
+    number_sections: false
+    theme: lumen
+    highlight: espresso
+---
+
+## Summary
+
+The goal of this project is to allow Alltrails users to receive 5 new recommendations for a hike they've enjoyed. "Eureka, I found a hike", also known as EIFAH is a 3rd party application that takes in *a hike in California as inputs*, and *returns 5 hikes that the user is likely to enjoy* based upon proximity and how others have rated the hike. The application enables avid, as well as new hikers, to promote healthy living by reducing the time it takes between searching for a hike to getting out on the trail. Hikers can leverage technology to spend more time in nature. 
+
+## Background
+
+In the 2010 study reported by the Outdoor Industry Association, 24% of self proclaimed outdoor enthusiasts get outside two or more times a week. The biggest reported reason that people don't go outside is that they don't know where to go. In the recent years, Alltrails.com has bridged the gap between outdoor enthusiasts and unpopulated wilderness. Alltrails is a crowdsourced website that helps millions of people explore the outdoors by providing the largest collection of photos, trailmaps and trail reviews. Though they have a large collection of hikes and reviews (~50,000+ options), choosing the next best hike from copious options can be as challenging as not having any information about the hikes. Picking the perfect hike often requires careful considerations in terms of location, difficulty, and safety, even for avid hikers. Hikers end up consulting friends, TripAdvisors or other public forums for hiking recommendations. This can turn into a drawn out process and can keep people astray from nature. A recommendation application for hikes can alleviate this painstaking research so that users spend more time outside in the nature, rather than on their computers. First time hikers in California can reap the rewards of hiking by starting out with easier hikes that are highly rated as well as carefully curated. 
+
+## Project Benefits 
+
+### Generate traffic 
+
+Through EIFAH, Alltrails anticipates a 5% lift both in total registered users and reported hand curated trails by generating more website traffic. As registered Alltrails users utilize EIFAH and its capabilities, they are expected to rate the recommendations they are presented with. Their rating history will be preserved by Alltrails for future recommendations through EIFAH. 
+
+First time hikers, after using EIFAH, are urged to register with Alltrails.com so that their user profile is generated, which will help in curating personalized recommendations thereafter.  
+
+### Lift in profit 
+
+Over the next year, 3% lift in subscription sales, total value of $6.48M, is anticipated. Upon realizing this 3% lift in subscription sales, EIFAH will expand to additional states in the Pacific Northwest over the next 2 years. 
+
+### Raising awareness
+
+As more people continue to have positive experiences being outside, they are more motivated to help save the environment. Their involvement helps national parks and state parks allocate more budget for maintainence and raising awareness. 
+
+## Success criteria 
+
+Reported RMSE score of 1.0 for the model will ensure that recommendations are appropriate and close to what other users have rated the hike as.  
+
+The project will be considered a success when top 3 recommendations are within 20 miles of the original query. This ensures that user's intent for proximity of the hike is being considered in the model.
+
+The project will be considered a success when 65% of the end users find their first recommendation to be satisfactory and 50% of the users find their first 3 recommendations to be satisfactory. 
+
+Upon querying a hike, getting results in 5 seconds.
+
+## Project plan and timeline
+
+Project plan is split into development stage and sustain modes
+
+### Development mode - 11 weeks
+
+#### 1. Data collection - 3 weeks
+Eureka data science team to consult Alltrails data management team for hike related data. Data scientists will procure, wrangle and store data for model development. 
+
+#### 2. Model development - 3 weeks
+Eureka data science team will assess the data on hiking trails they have procured, build recommendation engines, train and evaluate model effectiveness. Top models that pass preliminary tests for hike similarity are to be implemented.
+
+#### 3. EurekaIfoundahike website - 2 weeks
+Eureka Front end engineers will build in house user interface where Alltrails users can access recommended hikes. 
+
+#### 4. Project deployment and implementation - 3 weeks
+Eureka data science team and data engineering team to implement the application in production. Training documents are prepared and the Eureka support team is on-boarded. 
+
+### Sustain mode - 3 years
+
+#### 1. A/B testing - every 2 weeks for the first month
+Since the project is dependent on recommendations to be satisfactory for end users, multiple recommendation engines are to be tested in production via A/B testing. The output of the A/B testing includes metrics such as Click through rate, average time spent on each hike, likes and dislikes of hike recommendations. Depending on the A/B testing feedback, the final recommendation engine will become more successfull. 
+
+#### 2. Model maintainence - every 6 months  
+Data scientists to evaluate model performance on a 6 month cadence post-implementation. If the model performance falls under 40 % user satisfaction before 6 month period is over, data science team to procure additional data, and perform the required maintainence. 
+ 
+
+## Key Stakeholders
+
+End users - California residents who are looking for a hike
+
+Alltrails users - Provided hike details, ratings and reviews 
+
+Alltrails data management team
+
+Product manager
+
+Data science team 
+
+Development team 
+
+QA team - MechanicalTurks (in the case where the recommendation engine needs more human intervention)
+
+## Risks
+
+Tailoring hikes to specific user base is dependent on how many end users report out on their recommendations, whether successfull or unsuccessful, so that their future recommendations align are more personalized according to their user profiles.  
+
+Competing services that hikers are already affiliated with can be challenging in getting more users. 
+
+Application doesn't offer weather influenced services, and can produce interesting results based on upredictable weather. Which can in turn reflect poorly on the app.  
+
+## Risk mitigation
+
+In the event that users don't report out on recommendations, data science team to leverage platforms such as MechanialTurks for human intervention for recommendation feedback. 
+
+Linking the local weather report to the page can notify the users to check local weather before hiking
+
+## Deployment 
+
+A web application for EIFAH will be available via all platforms that are connected to the web. End users are to select a hike they've done from the dropdown or by typing the hike of their choice in the search bar, and receive an output of 5 similar hikes they are likely to enjoy. As the users continue to use the application, they can log on to Alltrails.com and search for and rate the hikes they've been recommended through EIFAH. Alltrails will update and maintain the user profiles as the users continue to rate more hikes. 
+
+## Long-term plans
+
+As the user base of EIFAH and Alltrails continues to grow, EIFAH will host its own database to store Alltrails user profiles which include user info and the hikes they've already rated. New users will be able to browse and seamlessly update their hike ratings in EIFAH, without having to go to Alltrails to file reports for hikes they've enjoyed. 

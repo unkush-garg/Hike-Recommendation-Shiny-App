@@ -1,0 +1,10 @@
+Package: SVD01
+Type: Package
+Title: Contains SVD model - 01 from Recommender lab 
+Version: 0.1.0
+Author: Ankush Garg
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Performs a Singular value decomposition on a user/hike realRatingMatrix using ratings mean 
+License: UCB
+Encoding: UTF-8
+LazyData: true

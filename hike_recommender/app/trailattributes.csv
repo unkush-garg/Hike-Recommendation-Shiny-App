@@ -1,0 +1,733 @@
+hike_name,Hike distance ,Elevation,rating_x,difficulty_EASY,difficulty_HARD,difficulty_MODERATE,type_Loop,type_Out & Back,type_Point to Point,long,lat,Difficulty ,Trail Type
+ Los Santos-Trans Preserve Loop ,4.6 miles,488 feet,4.3,0,0,1,1,0,0,-122.6954134,38.5728553,MODERATE,Loop
+ Ortega Falls ,0.3 miles,16 feet,3.8,1,0,0,1,0,0,-117.4279519,33.6262535,EASY,Loop
+ Sostomo and Deer Valley Loop Trail,6.7 miles,1745 feet,4.2,0,0,1,1,0,0,-118.755154,34.038993,MODERATE,Loop
+ Upper Newport Bay Ecological Reserve Loop,5.3 miles,180 feet,4.1,1,0,0,1,0,0,-117.8862821,33.6545595,EASY,Loop
+17-Mile Drive to Carmel Road Ride,7.7 miles,400 feet,4.2,1,0,0,0,0,1,-121.956498,36.573606,EASY,Point to Point
+Abalone Cove Trail,1.4 miles,269 feet,4.4,1,0,0,1,0,0,-118.3791885,33.7425367,EASY,Loop
+Abeja Loop Trail,2.9 miles,816 feet,3.9,0,0,1,1,0,0,-117.1865661,33.1683513,MODERATE,Loop
+Agua Caliente Trail,8.1 miles,2004 feet,4.1,0,0,1,1,0,0,-116.6528669,33.288398,MODERATE,Loop
+Agua Tibia Full Loop Trail,20.2 miles,3871 feet,4.3,0,1,0,1,0,0,-116.9858598,33.420865,HARD,Loop
+Ahwingna and Native Oak Loop Trail,0 miles,0 feet,0,0,0,0,0,0,0,-118.0097247,34.0024112,#N/A,#N/A
+Alamere Falls via Coast Trail from Palomarin Trailhead,7.9 miles,1204 feet,4.6,0,0,1,0,1,0,-122.7834064,37.9537344,#N/A,#N/A
+Aliso Creek and Wood Canyon Loop Trail  ,11.6 miles,1200 feet,4.3,0,0,1,1,0,0,-117.7204421,33.5513213,MODERATE,Loop
+Aliso Summit Trail,6.9 miles,1000 feet,4.1,1,0,0,0,1,0,-117.7278031,33.5160089,EASY,Out & Back
+Alpine Pedal Path Trail,5.4 miles,285 feet,4.5,1,0,0,0,1,0,-116.8850396,34.261232,EASY,Out & Back
+Alta Peak Trail,12.6 miles,3914 feet,4.7,0,1,0,0,1,0,-118.6642026,36.5900843,HARD,Out & Back
+Alum Rock South Rim Trail ,4.3 miles,770 feet,4,0,0,1,1,0,0,-121.7943223,37.3974169,MODERATE,Loop
+American Canyon Trail Loop,6.4 miles,1410 feet,4.1,0,1,0,1,0,0,-120.9336081,38.9258133,HARD,Loop
+Andrew Molera Beach Trail to Creamery Meadows Trail,2.3 miles,68 feet,4.5,1,0,0,0,1,0,-121.844272,36.2884189,EASY,Out & Back
+Angora Lakes Trail,1.2 miles,226 feet,4.4,1,0,0,0,1,0,-120.066053,38.8664848,EASY,Out & Back
+Annies Canyon and Rios Avenue Trail,3.1 miles,226 feet,4.2,1,0,0,1,0,0,-117.2724344,33.0036458,EASY,Loop
+Antelope Loop Trail,5.5 miles,593 feet,4.3,1,0,0,1,0,0,-121.3593102,38.7202321,EASY,Loop
+Aptos Creek and West Ridge Trail Loop to Top of the Incline and Sand Point Overlook,14.9 miles,2122 feet,4.4,0,0,1,1,0,0,-121.8884933,37.0547618,MODERATE,Loop
+Araby Trail,4.1 miles,1404 feet,4.2,0,0,1,0,1,0,-116.510457,33.7969279,MODERATE,Out & Back
+Arch Rock Nature Trail,0.5 miles,22 feet,4.5,1,0,0,0,1,0,-116.0166037,33.9853125,EASY,Out & Back
+Arnold Rim Trail,7.6 miles,1407 feet,4.5,0,0,1,0,1,0,-120.3718117,38.2353495,MODERATE,Out & Back
+Arrowhead Pinacles Trail,4.6 miles,1099 feet,4.3,0,1,0,0,1,0,-117.2112504,34.2962653,HARD,Out & Back
+Arroyo Pescadero and Deer Loop Trail,2.7 miles,291 feet,3.9,0,0,1,1,0,0,-118.0018906,33.9686743,MODERATE,Loop
+Arroyo Seco Trail,19.1 miles,2979 feet,4.2,0,0,1,0,1,0,-118.1656507,34.1503522,MODERATE,Out & Back
+Arroyo Trabuco Trail,16.4 miles,967 feet,3.9,1,0,0,0,1,0,-117.663284,33.541367,EASY,Out & Back
+Arroyo Verde Park Loop,2.8 miles,702 feet,3.9,0,0,1,1,0,0,-119.2273782,34.2850137,MODERATE,Loop
+Art Smith Trail,12.2 miles,2641 feet,4.5,0,1,0,0,1,0,-116.4082808,33.6679746,HARD,Out & Back
+Avenue of the Noble Giants,10.6 miles,2020 feet,3.8,0,0,1,0,1,0,-79.9319384,40.3615284,MODERATE,Out & Back
+Avery's Pond via the Pioneer Express Trail,0 miles,0 feet,0,0,0,0,0,0,0,-121.0902679,38.8186831,#N/A,#N/A
+Backbone Trail,66.6 miles,12772 feet,4.4,0,1,0,0,0,1,-118.7779194,34.079598,HARD,Point to Point
+Backbone Trail from Will Rogers to Stunt Road ,17 miles,4078 feet,4.1,0,1,0,0,0,1,-118.5125616,34.054979,HARD,Point to Point
+Backbone Trail to Sandstone Peak,3.2 miles,1030 feet,4.5,0,0,1,0,1,0,-118.7801081,34.079598,MODERATE,Out & Back
+Badwater Basin Salt Flats Trail,1.8 miles,9 feet,4.2,1,0,0,0,1,0,-116.8185076,36.2460841,EASY,Out & Back
+Bailey Canyon Trail to Jones Peak,5.5 miles,2270 feet,4.3,0,1,0,0,1,0,-118.061603,34.1713044,HARD,Out & Back
+Bailey Cove Loop Trail,2.6 miles,226 feet,4.1,0,0,1,1,0,0,-122.3158611,40.7991835,MODERATE,Loop
+Balboa Island Wedge Trail,2.5 miles,22 feet,4.4,1,0,0,1,0,0,-117.8810374,33.5928531,EASY,Loop
+Bald Mountain Trail,5.9 miles,1778 feet,4.7,0,1,0,1,0,0,-121.8712638,37.1603045,HARD,Loop
+Baldwin Hills Scenic Overlook Trail,1.8 miles,265 feet,4.3,0,0,1,1,0,0,-118.3840379,34.0175826,MODERATE,Loop
+Baldy Bowl Trail to Mount San Antonio,7.5 miles,3746 feet,4.7,0,1,0,0,1,0,-117.6467218,34.2888927,HARD,Out & Back
+Baltimore Canyon Via Dawn Falls Trail Loop,4.4 miles,629 feet,4.4,0,0,1,1,0,0,-122.5609035,37.9369143,MODERATE,Loop
+Barker Dam Nature Trail ,1.2 miles,59 feet,4.3,1,0,0,1,0,0,-116.1436643,34.0280864,EASY,Loop
+Barker Valley Spur Trail,7.1 miles,1059 feet,3.7,0,0,1,0,1,0,-116.8010767,33.3417662,MODERATE,Out & Back
+Barney Lake Trail,8.8 miles,1430 feet,4.8,0,0,1,0,1,0,-118.9690569,37.5647388,MODERATE,Out & Back
+Batiquitos Lagoon Trail,3.1 miles,26 feet,4,1,0,0,0,1,0,-117.3013926,33.0935999,EASY,Out & Back
+Batteries to Bluffs Trail,2.3 miles,337 feet,4.6,1,0,0,1,0,0,-122.4793445,37.7973617,EASY,Loop
+Bay Farm Island Loop Trail,6 miles,19 feet,4.2,1,0,0,1,0,0,-122.2370271,37.7373671,EASY,Loop
+Bayshore Bikeway (Silver Strand) Trail ,18.7 miles,88 feet,4.2,1,0,0,0,1,0,-117.1437889,32.639867,EASY,Out & Back
+Bayside Trail,2 miles,305 feet,4.4,1,0,0,0,1,0,-70.2571032,43.6739032,EASY,Out & Back
+Beach Trail / Broken Hill Trail Loop [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-117.2495749,32.9165604,#N/A,#N/A
+Bear Creek Canyon Trail,8.3 miles,2319 feet,4.2,0,1,0,0,1,0,-116.3194556,33.6615895,HARD,Out & Back
+Bear Gulch and Alambique Trail Loop,9.7 miles,2043 feet,4.3,0,0,1,1,0,0,-122.2741507,37.3998717,MODERATE,Loop
+Bear Gulch Day Use Area to Reservoir via Rim Trail,1.9 miles,465 feet,4.5,0,0,1,1,0,0,-121.1805467,36.481223,MODERATE,Loop
+Bear Gulch Trail,1.9 miles,282 feet,4.6,0,0,1,1,0,0,-121.1737224,36.4831357,MODERATE,Loop
+Bear Lakes and Round Lake Loop Trail,4 miles,531 feet,4.6,0,0,1,1,0,0,-120.6565393,39.692966,MODERATE,Loop
+Bear Valley Trail To Coastal Trail,9.1 miles,695 feet,4.5,0,0,1,0,1,0,-122.7904641,37.9704281,MODERATE,Out & Back
+Beaudry Loop,5.8 miles,1469 feet,4.3,0,0,1,1,0,0,-118.2410884,34.1933636,MODERATE,Loop
+Bee Canyon to Pine Cove Road,13.1 miles,4140 feet,4,1,0,0,0,0,1,-116.835502,33.745846,EASY,Point to Point
+Ben Overturff Trail,4 miles,1095 feet,4,0,0,1,1,0,0,-117.9871351,34.1749564,MODERATE,Loop
+Bernardo Mountain Summit Trail,7.1 miles,872 feet,4.1,0,0,1,0,1,0,-117.088088,33.0639309,MODERATE,Out & Back
+Berry Creek Falls Trail,12.1 miles,2654 feet,4.7,0,1,0,1,0,0,-122.2672972,37.1741716,#N/A,#N/A
+Bertha Peak Trail,6.8 miles,1325 feet,4.3,0,0,1,0,1,0,-116.899199,34.2830617,MODERATE,Out & Back
+Best Trails in Agua Tibia Wilderness,0 miles,0 feet,0,0,0,0,0,0,0,-116.9858598,33.420865,#N/A,#N/A
+Best Trails in Crockett Hills Regional Park,0 miles,0 feet,0,0,0,0,0,0,0,-122.2146612,38.0298958,#N/A,#N/A
+Best Trails in Death Valley National Park,0 miles,0 feet,0,0,0,0,0,0,0,-117.0794078,36.5053891,#N/A,#N/A
+Best Trails in Inyo National Forest,0 miles,0 feet,0,0,0,0,0,0,0,-119.0112022,37.6035042,#N/A,#N/A
+Best Trails in Toiyabe National Forest,0 miles,0 feet,0,0,0,0,0,0,0,-120.0242963,39.2415153,#N/A,#N/A
+Big Baldy Ridge Trail,5.5 miles,1391 feet,4.6,0,0,1,1,0,0,-118.8788201,36.6974257,MODERATE,Loop
+Big Bend Loop ,4.8 miles,889 feet,4.3,0,1,0,1,0,0,-149.9863333,61.1441673,HARD,Loop
+Big Dalton Dam Trail,2.9 miles,347 feet,4,1,0,0,0,1,0,-117.832191,34.159839,EASY,Out & Back
+Big Falls Trail,0.7 miles,252 feet,4.2,1,0,0,0,1,0,-116.8949349,34.0830902,EASY,Out & Back
+Big Horn Mine Trail,3.9 miles,633 feet,4.5,1,0,0,0,1,0,-117.7447812,34.3561119,EASY,Out & Back
+Big Laguna Mountain Loop Trail,10.3 miles,1167 feet,4.5,0,0,1,1,0,0,-116.4632784,32.8808926,MODERATE,Loop
+Big Meadow to Dardanelles Lake via Tahoe Rim Trail,7.3 miles,1358 feet,4.6,0,0,1,0,1,0,-120.0007868,38.7884457,MODERATE,Out & Back
+Big Pine Lakes Trail,13.7 miles,4251 feet,4.8,0,0,1,1,0,0,-118.5071974,37.1303897,MODERATE,Loop
+Big Rock Trail,4.8 miles,1236 feet,4.3,0,0,1,0,1,0,-117.0224082,32.826815,MODERATE,Out & Back
+Big Trees Trail,1.3 miles,98 feet,4.4,1,0,0,1,0,0,-122.6336686,38.10276,EASY,Loop
+Bill Cull Trail,0.9 miles,193 feet,4.2,1,0,0,0,1,0,-117.9871351,34.1749564,EASY,Out & Back
+Bishop Pass Trail,9.4 miles,2355 feet,4.9,0,1,0,0,1,0,-118.5448288,37.1146559,HARD,Out & Back
+Bishop Peak Trail,3.5 miles,931 feet,4.6,0,0,1,0,1,0,-120.6934015,35.3013443,MODERATE,Out & Back
+Bishop Peak Trail from Highland Drive,3.4 miles,1131 feet,4.6,0,0,1,0,1,0,-120.6973949,35.3024744,MODERATE,Out & Back
+Black Hill Trail,2.3 miles,606 feet,4.3,1,0,0,0,1,0,-120.8333257,35.3549793,EASY,Out & Back
+Black Mountain Trail,6.6 miles,2470 feet,4.2,0,1,0,0,1,0,-121.4739673,35.1358269,HARD,Out & Back
+Black Mountain Truck Trail,14.1 miles,3054 feet,4.3,0,0,1,0,1,0,-116.8150955,33.1625217,MODERATE,Out & Back
+Black Star Canyon Trail,6.8 miles,941 feet,4.3,0,1,0,0,1,0,-117.6607464,33.7881185,#N/A,#N/A
+Blue Mountain Trail,3.8 miles,1092 feet,4.4,0,0,1,0,1,0,-117.298462,34.0279194,MODERATE,Out & Back
+Blue Oak Trail,6.3 miles,249 feet,4,1,0,0,0,1,0,-122.1082842,37.9370012,EASY,Out & Back
+Blue Ridge Trail,4.3 miles,1105 feet,4.5,1,0,0,0,1,0,-117.2977921,34.0504011,EASY,Out & Back
+Blue Sky Reserve to Mount Woodson Trail,10.5 miles,2316 feet,4.4,0,0,1,0,1,0,-117.0247854,33.017424,MODERATE,Out & Back
+Bluff Trail,4.6 miles,370 feet,4.6,1,0,0,1,0,0,-120.8937541,35.2651304,EASY,Loop
+Bluff Trail Loop,8.2 miles,1217 feet,4.6,0,1,0,1,0,0,-120.8937541,35.2651304,HARD,Loop
+Bob Jones City to the Sea Bike Trail,4.9 miles,104 feet,4.2,1,0,0,0,1,0,-120.7029931,35.1807218,EASY,Out & Back
+Bobelaine Audubon Sanctuary Trail,4 miles,52 feet,3.1,1,0,0,1,0,0,-121.5903463,38.9308263,EASY,Loop
+Bodega Head Trail,1.7 miles,180 feet,4.4,1,0,0,1,0,0,-123.0580384,38.3035794,EASY,Loop
+Bolsa Chica Ecological Reserve Trail,4.4 miles,88 feet,4.2,1,0,0,1,0,0,-118.0464005,33.6956195,EASY,Loop
+Bommer Ridge Trail,7.5 miles,688 feet,4.2,1,0,0,0,1,0,-117.7826689,33.5935357,EASY,Out & Back
+Bonelli Park Trail,6.3 miles,524 feet,4.1,0,0,1,1,0,0,-117.8081453,34.081107,MODERATE,Loop
+Boney Mountain Overlook Trail,9.1 miles,2670 feet,4.4,0,0,1,0,1,0,-118.940434,34.116281,MODERATE,Out & Back
+Borrego Canyon to Red Rock Canyon,4.2 miles,419 feet,4.5,1,0,0,0,1,0,-117.6477063,33.7043356,EASY,Out & Back
+Borrego Canyon to Vista Look Out Trail,4.6 miles,764 feet,4.1,0,0,1,0,1,0,-117.6564103,33.689869,MODERATE,Out & Back
+Box Springs Mountain Park,7.1 miles,1784 feet,4.1,1,0,0,0,1,0,-117.2906473,33.9812859,EASY,Out & Back
+Boy Scout Trail,4.8 miles,875 feet,4.6,0,0,1,0,1,0,-116.1541392,34.110272,MODERATE,Out & Back
+Bridalveil Fall Trail,0.6 miles,91 feet,4.2,1,0,0,0,1,0,-119.6463888,37.716669,EASY,Out & Back
+Bridge to Nowhere via East Fork Trail,8.9 miles,1158 feet,4.6,0,0,1,0,1,0,-117.8124993,34.2372766,#N/A,#N/A
+Bronson Caves,0.6 miles,65 feet,4.1,1,0,0,0,1,0,-118.3143371,34.1213309,EASY,Out & Back
+Brush Canyon: Brush Canyon Trail,2.8 miles,725 feet,4.5,0,0,1,0,1,0,-118.3087301,34.1294235,MODERATE,Out & Back
+Buckhart Trail to Cooper Canyon Falls,4.6 miles,1013 feet,4.4,0,0,1,0,1,0,-117.9110593,34.3475172,MODERATE,Out & Back
+Bump and Grind Trail,3.9 miles,1108 feet,4.2,0,0,1,1,0,0,-116.4126808,33.726689,MODERATE,Loop
+Bumpass Hell Trail,2.7 miles,439 feet,4.6,1,0,0,0,1,0,-121.5010592,40.4581519,EASY,Out & Back
+Burney Falls Loop Trail,0.9 miles,160 feet,4.7,1,0,0,1,0,0,-121.650607,41.014884,EASY,Loop
+Buttermilk Bend Trail,2.3 miles,196 feet,4.2,1,0,0,0,1,0,-121.1753688,39.2975258,EASY,Out & Back
+Buzzard's Roost,0 miles,0 feet,0,0,0,0,0,0,0,-121.78536,36.24923,#N/A,#N/A
+Buzzard's Roost Trail,0 miles,0 feet,0,0,0,0,0,0,0,-121.78536,36.24923,#N/A,#N/A
+Buzzards Roost Trail ,3.1 miles,866 feet,4.1,0,0,1,1,0,0,-122.3215018,36.9754895,MODERATE,Loop
+Caballero Canyon Trail,5.1 miles,977 feet,4.2,0,0,1,1,0,0,-118.5462732,34.1356455,MODERATE,Loop
+Cahuenga Peak Loop,3.7 miles,1197 feet,4.4,0,1,0,1,0,0,-118.3259105,34.1369508,#N/A,#N/A
+Calabasas Cold Creek Trail,3.6 miles,908 feet,4.2,0,0,1,0,1,0,-118.6480757,34.0948948,MODERATE,Out & Back
+Calaveras North Grove Trail,1.4 miles,75 feet,4.5,1,0,0,1,0,0,-120.3092982,38.2775178,EASY,Loop
+Calaveras South Grove Trail,4.9 miles,754 feet,4.6,1,0,0,1,0,0,-120.267674,38.2469141,EASY,Loop
+Camp Nelson Trail,5.2 miles,958 feet,4.6,0,0,1,0,1,0,-118.5949372,36.1410249,MODERATE,Out & Back
+Canyon View Trail to Little Yosemite,3.8 miles,429 feet,4.3,0,0,1,1,0,0,-121.8146984,37.505657,MODERATE,Loop
+Caples Lake to Emigrant Lake Trail,8.2 miles,921 feet,4.5,0,0,1,0,1,0,-120.050996,38.7039648,MODERATE,Out & Back
+Carlon Falls Trail,2.8 miles,200 feet,4.4,1,0,0,0,1,0,-119.8617839,37.8138398,EASY,Out & Back
+Carson Falls and Pine Mountain Trail,6.3 miles,1335 feet,4.3,0,0,1,0,1,0,-122.6445611,37.9699013,MODERATE,Out & Back
+Castle Crags Trail,6.7 miles,2565 feet,4.7,0,0,1,0,1,0,-122.3196214,41.1519841,MODERATE,Out & Back
+Castle Dome Trail,7.7 miles,2752 feet,4.8,0,1,0,0,1,0,-122.3196214,41.1519841,HARD,Out & Back
+Castle Rock Trail,2.6 miles,833 feet,4.5,0,0,1,0,1,0,-122.6093483,37.5640047,MODERATE,Loop
+Cataract Falls and Potrero Meadows Loop,8.4 miles,1837 feet,4.5,0,1,0,1,0,0,-122.6353883,37.9318433,#N/A,#N/A
+Cataract Falls Trail,2.7 miles,1020 feet,4.5,0,0,1,0,1,0,-122.6353883,37.9318433,#N/A,#N/A
+Cathedral Lakes Trail,8.6 miles,1551 feet,4.7,0,0,1,0,1,0,-119.4209251,37.843523,MODERATE,Out & Back
+Cave Landing and Pirate's Cove from Shell Beach,0 miles,0 feet,0,0,0,0,0,0,0,-120.7169423,35.1755845,#N/A,#N/A
+Cerro Alto Trail Loop,4.5 miles,1607 feet,4.4,0,1,0,1,0,0,-120.7386786,35.4243148,HARD,Loop
+Cerro San Luis Obispo Loop Trail,4 miles,836 feet,4.3,0,0,1,1,0,0,-120.6724312,35.2745326,MODERATE,Loop
+Chamise Trail and Bollinger Creek Loop Trail,2.7 miles,580 feet,4.1,0,0,1,1,0,0,-122.0429645,37.8158143,MODERATE,Loop
+Champion Lodgepole via Castle Rock Trail,5.8 miles,1046 feet,4.5,0,0,1,1,0,0,-116.9617634,34.2366284,MODERATE,Loop
+Chimney Rock Trail,1.9 miles,223 feet,4.5,1,0,0,0,1,0,-122.1316527,37.7688602,EASY,Out & Back
+China Camp State Park Loop,8.9 miles,961 feet,4.1,0,0,1,1,0,0,-122.4617151,38.0010084,MODERATE,Loop
+China Gulch Trail,2.2 miles,246 feet,4.2,1,0,0,0,1,0,-123.0753815,41.0695023,EASY,Out & Back
+Cholla Cactus Garden Nature Trail,0.3 miles,6 feet,4,1,0,0,1,0,0,-115.928849,33.9252528,EASY,Loop
+Chumash Trail,5.3 miles,1102 feet,4.2,0,0,1,0,1,0,-119.0624999,34.0935848,MODERATE,Out & Back
+Cinder Cone Nature Trail,4.6 miles,1033 feet,4.8,0,1,0,1,0,0,-121.3199729,40.5473847,HARD,Loop
+City View and Walnut Forest Trails,2.5 miles,639 feet,4.1,1,0,0,1,0,0,-118.6893864,34.3115599,EASY,Loop
+Cleghorn Ridge Trail,14.4 miles,2785 feet,4.6,0,1,0,0,0,1,-117.3905485,34.2828502,HARD,Point to Point
+Clementine Trail to Clark's Pool,0 miles,0 feet,0,0,0,0,0,0,0,-121.0353847,38.916265,#N/A,#N/A
+Cleo's Bath Trail,0 miles,0 feet,0,0,0,0,0,0,0,-119.9526878,38.2076279,#N/A,#N/A
+Clevenger Canyon South West Trail,4 miles,1167 feet,4.3,0,0,1,0,1,0,-116.9019716,33.0892091,MODERATE,Out & Back
+Clevenger Canyon-San Pasqual North Trail,4.6 miles,1358 feet,3.6,0,0,1,0,1,0,-116.9163547,33.0848563,MODERATE,Out & Back
+Climbers Loop Trail,1.8 miles,547 feet,4.4,0,1,0,1,0,0,-117.0509172,32.8257332,HARD,Loop
+Clouds Rest Trail from Tenaya Lake,12.9 miles,3900 feet,4.9,0,1,0,0,1,0,-119.4893517,37.7677098,#N/A,#N/A
+Clouds Rest Trail from Yosemite Valley,18 miles,6302 feet,4.8,0,1,0,0,1,0,-119.4893517,37.7677098,HARD,Out & Back
+Coal Canyon Trail,5.5 miles,636 feet,3.8,1,0,0,0,1,0,-117.6884191,33.8559861,EASY,Out & Back
+Coast to Crest Trail at Lake Hodges,7.4 miles,374 feet,4,1,0,0,0,1,0,-117.1161803,33.0604782,EASY,Out & Back
+Codfish Falls Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-120.9400803,39.0003138,#N/A,#N/A
+Cold Spring Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-119.6363223,34.4926732,#N/A,#N/A
+Confluence Trail,3.4 miles,485 feet,4,1,0,0,0,1,0,-121.0251975,38.9180756,EASY,Out & Back
+Convict Lake Loop Trail,2.5 miles,213 feet,4.5,1,0,0,1,0,0,-118.8587666,37.5854301,EASY,Loop
+Cooper Canyon Falls Trail,6.2 miles,1295 feet,4.5,0,0,1,1,0,0,-117.9110593,34.3475172,MODERATE,Loop
+Copper Creek Falls Trail,2.8 miles,229 feet,4.1,1,0,0,0,1,0,-117.9110593,34.3475172,EASY,Out & Back
+Copper Creek Loop,3.9 miles,610 feet,4,0,0,1,1,0,0,-122.9701899,44.9988549,MODERATE,Loop
+Coronado Beach,3.7 miles,36 feet,4.3,1,0,0,0,1,0,-117.1878115,32.6847742,EASY,Out & Back
+Corral Canyon Loop Trail,2.3 miles,524 feet,4.1,0,0,1,1,0,0,-118.7326839,34.0386564,MODERATE,Loop
+Corte Madera Mountain Trail,6.5 miles,1381 feet,4.6,0,1,0,0,1,0,-116.5911294,32.7575535,HARD,Out & Back
+Cosumnes River Walk Trail,3.1 miles,16 feet,3.8,1,0,0,1,0,0,-121.4392345,38.2657312,EASY,Loop
+Cougar Crest Trail ,5.2 miles,856 feet,4.4,0,0,1,0,1,0,-116.9074085,34.2736099,MODERATE,Out & Back
+Cougar Ridge to Engelmann Oak Trail,7.3 miles,984 feet,4.3,0,0,1,1,0,0,-117.1053617,33.2200352,MODERATE,Loop
+Cove to Lake Trail,6.6 miles,915 feet,3.9,0,0,1,0,1,0,-116.3112554,33.6485965,MODERATE,Out & Back
+Cowles Mountain from Barker Way,2.4 miles,692 feet,4.2,0,0,1,0,1,0,-117.0305556,32.8134243,MODERATE,Out & Back
+Cowles Mountain from Big Rock Trail,4.5 miles,1204 feet,4.3,0,0,1,0,1,0,-117.0224082,32.826815,MODERATE,Out & Back
+Cowles Mountain Trail,2.9 miles,912 feet,4.1,0,0,1,0,1,0,-117.0332252,32.8078562,#N/A,#N/A
+Coyote Creek Trail,18.6 miles,413 feet,3.7,1,0,0,0,0,1,-121.8664883,37.332206,EASY,Point to Point
+Coyote Ridge Trail to Muir Beach,5.5 miles,1266 feet,4.5,0,0,1,0,1,0,-122.2156759,37.2605598,MODERATE,Out & Back
+Cozy Dell Via Foothill Trail (CLOSED),3.6 miles,1187 feet,4,0,0,1,1,0,0,-119.283599,34.4767011,MODERATE,Loop
+Crabtree Trail to Bear Lake,8.5 miles,1020 feet,4.6,0,0,1,0,1,0,-119.9067432,38.1787211,MODERATE,Out & Back
+Crescent and Log Meadows Trail,1.7 miles,190 feet,4.5,1,0,0,1,0,0,-118.7524636,36.5582941,EASY,Loop
+Crestridge Ecological Reserve Trail,1.5 miles,183 feet,4.1,0,0,1,1,0,0,-116.8564088,32.8287416,MODERATE,Loop
+Cronan Ranch West Ridge Trail,12.3 miles,1830 feet,4.1,0,0,1,1,0,0,-120.9891272,38.8265445,MODERATE,Loop
+Crystal Cave Trail,0.8 miles,318 feet,4.6,0,0,1,0,1,0,-118.8276797,36.5853049,MODERATE,Out & Back
+Crystal Cove Perimeter Loop,9.5 miles,1335 feet,4.3,0,1,0,1,0,0,-117.802359,33.605679,#N/A,#N/A
+Crystal Lake Trail,2.4 miles,731 feet,4.6,0,0,1,0,1,0,-119.0112022,37.6035042,MODERATE,Out & Back
+Crystal Mountain via PCT,3.9 miles,570 feet,4.2,1,0,0,0,1,0,-121.3857233,40.7542152,EASY,Out & Back
+Crystal Springs & Dean Trails,4.5 miles,935 feet,4.3,1,0,0,1,0,0,-122.2923723,37.4434347,EASY,Loop
+Cuyamaca Peak Loop,7.7 miles,1833 feet,4.4,0,0,1,1,0,0,-116.6064084,32.9467149,#N/A,#N/A
+Cypress Grove Trail,0.8 miles,59 feet,4.6,1,0,0,1,0,0,-121.951703,36.5210187,EASY,Loop
+Daley Ranch Loop,10.2 miles,1469 feet,4.3,0,0,1,1,0,0,-117.0518698,33.1740934,#N/A,#N/A
+Damnation Creek Trail,3.5 miles,1177 feet,4.7,0,0,1,0,1,0,-124.123413,41.6656683,MODERATE,Out & Back
+Dana Point Beach Trail,1.3 miles,75 feet,3.9,0,0,1,0,1,0,-117.6566843,33.4493211,MODERATE,Out & Back
+Dante's View Trail,0 miles,0 feet,0,0,0,0,0,0,0,-116.6917504,36.2392031,#N/A,#N/A
+Darrington Trail ,15.5 miles,1358 feet,4,1,0,0,0,1,0,-121.0267209,38.7754573,EASY,Out & Back
+Darwin Falls Trail via Old Toll Road,6.8 miles,823 feet,4.3,1,0,0,0,1,0,-117.5146757,36.3277154,EASY,Out & Back
+Dave Moore Nature Trail,1 miles,52 feet,4.5,1,0,0,1,0,0,-120.921675,38.8142735,EASY,Loop
+Dawn Mine and Sunset Trail Loop,4.9 miles,1578 feet,4.5,0,1,0,1,0,0,-118.1297606,34.2265528,#N/A,#N/A
+Dearing Mountain Trail,4.5 miles,994 feet,4.2,0,0,1,0,1,0,-118.3907507,34.1239387,MODERATE,Out & Back
+Deep Creek Hot Springs Trail,3.6 miles,921 feet,4.4,0,0,1,0,1,0,-117.176964,34.339409,#N/A,#N/A
+Deer Canyon Loop Trail,6.9 miles,1289 feet,4.4,0,0,1,1,0,0,-117.7563954,33.8631777,MODERATE,Loop
+Deer Hollow Farm Trail Loop,2.7 miles,259 feet,4.4,1,0,0,1,0,0,-122.100002,37.3328156,#N/A,#N/A
+Devil's Slide to Saddle Junction Trail,0 miles,0 feet,0,0,0,0,0,0,0,-116.6859617,33.7645954,#N/A,#N/A
+Devils Chair Trail,7.7 miles,1584 feet,4.5,0,0,1,0,1,0,-117.8619007,34.4145884,#N/A,#N/A
+Diamond Valley Lake North Trail,2.8 miles,567 feet,3.6,0,0,1,0,1,0,-117.0029015,33.6832551,MODERATE,Out & Back
+Diemer Trail ,6.5 miles,679 feet,4.1,0,0,1,1,0,0,-117.8039268,33.9135484,MODERATE,Loop
+Dinkey Lakes Trail,6.9 miles,925 feet,4.5,0,0,1,1,0,0,-119.0807705,37.1675509,MODERATE,Loop
+Dipsea Trail from Muir Woods to Stinson Beach,9.5 miles,2450 feet,4.7,0,1,0,0,1,0,-122.637194,37.8978679,#N/A,#N/A
+Dipsea Trail to Steep Ravine Trail to Matt Davis Loop Trail,6.3 miles,1686 feet,4.7,0,0,1,1,0,0,-122.6107881,37.8890472,#N/A,#N/A
+Dixon Lake Trail,2.1 miles,173 feet,3.9,1,0,0,0,1,0,-117.0952316,33.184333,EASY,Out & Back
+Dominguez Gap Trail,2 miles,49 feet,3.8,1,0,0,1,0,0,-118.2027721,33.8366169,EASY,Loop
+Donner Creek Loop Trail,5.1 miles,1161 feet,4.5,0,0,1,1,0,0,-121.9191405,37.9080678,#N/A,#N/A
+Donner Peak Trail,3.7 miles,866 feet,4.5,0,0,1,0,1,0,-120.3216128,39.3158892,MODERATE,Out & Back
+Double Peak Trail,3.9 miles,1026 feet,4.2,0,0,1,1,0,0,-117.1785028,33.1089355,#N/A,#N/A
+Dragoon Gulch Trail,2.2 miles,272 feet,4.2,1,0,0,1,0,0,-120.3905634,37.9823879,EASY,Loop
+Dry Creek Trail,3.5 miles,42 feet,4,0,0,1,0,1,0,-122.0249698,37.6214359,MODERATE,Out & Back
+Dry Creek Trail Loop,3.3 miles,370 feet,4.1,0,0,1,1,0,0,-122.011129,37.6175096,MODERATE,Loop
+Duck Lake Trail,9.5 miles,2132 feet,4.6,0,0,1,0,1,0,-118.9423826,37.5815062,MODERATE,Out & Back
+Eagle Peak Loop,7.6 miles,2198 feet,4.6,0,1,0,1,0,0,-121.9364514,37.9063388,HARD,Loop
+Eagle Peak Trail,9.8 miles,4327 feet,4.5,0,1,0,0,1,0,-121.7919128,46.7487995,HARD,Out & Back
+Eagle Rock via the PCT,6.4 miles,853 feet,4.6,0,0,1,0,1,0,-116.6116373,33.2546899,#N/A,#N/A
+Eagle Springs Fire Road Loop Trail,5.4 miles,1062 feet,4.3,0,0,1,1,0,0,-118.5649504,34.1061079,MODERATE,Loop
+East Ridge - Long Valley Trail Loop,4.2 miles,515 feet,4,0,1,0,1,0,0,-120.9891272,38.8265445,HARD,Loop
+East Ridge and Pool Ridge Loop Trail,5.2 miles,1558 feet,4.4,0,0,1,1,0,0,-123.0164455,38.5270698,MODERATE,Loop
+Eaton Canyon Trail,3.5 miles,436 feet,4.1,0,0,1,0,1,0,-118.0970654,34.176978,#N/A,#N/A
+Echo Lakes Trail,4.9 miles,554 feet,4.6,0,0,1,0,1,0,-120.0407279,38.8299426,#N/A,#N/A
+Echo Mountain via Sam Merrill Trail,5.5 miles,1338 feet,4.4,0,0,1,0,1,0,-118.1199118,34.2191626,#N/A,#N/A
+Edgewood Trail Loop,3.1 miles,590 feet,4.2,0,0,1,1,0,0,-122.2876776,37.4689649,MODERATE,Loop
+El Cajon Mountain Trail,11.1 miles,3533 feet,4.7,0,1,0,0,1,0,-116.8527612,32.913941,#N/A,#N/A
+El Dorado Park Nature Trail,2.6 miles,62 feet,4.3,1,0,0,1,0,0,-118.0869301,33.8095622,EASY,Loop
+El Moro Canyon Loop Trail,4.9 miles,800 feet,4.3,0,0,1,1,0,0,-117.8078961,33.5748298,#N/A,#N/A
+El Moro Canyon Short Loop Trail,2.8 miles,479 feet,4.2,0,0,1,1,0,0,-117.8213902,33.5663373,MODERATE,Loop
+Elfin Forest Natural Area Trail,1 miles,59 feet,3.9,1,0,0,1,0,0,-120.8255781,35.3324648,EASY,Loop
+Embarcadero to Spanish Landing ,7.5 miles,36 feet,4.3,1,0,0,0,1,0,-117.2050653,32.72901,EASY,Out & Back
+Emerald Lake Trail,1.7 miles,393 feet,4.3,1,0,0,0,1,0,-105.6823347,40.3260082,EASY,Out & Back
+Ernie Maxwell Scenic Trail,4.8 miles,875 feet,4.3,1,0,0,0,1,0,-116.68718,33.764825,EASY,Out & Back
+Escondido Falls Trail,3.7 miles,633 feet,3.9,1,0,0,0,1,0,-118.7794824,34.0431803,#N/A,#N/A
+Etiwanda Falls Trail,3.4 miles,803 feet,4.1,1,0,0,0,1,0,-117.5232196,34.1859197,#N/A,#N/A
+Euchre Bar Trail,7.3 miles,2500 feet,4.2,0,1,0,0,1,0,-120.7709965,39.1944388,HARD,Out & Back
+Exploration Trail,8.7 miles,1496 feet,4.1,0,0,1,0,1,0,-117.0645417,34.2010282,MODERATE,Out & Back
+Fairy Falls Trail to Beale/Shingle Falls,5 miles,479 feet,4.1,0,0,1,1,0,0,-121.2425087,39.1153892,#N/A,#N/A
+Fall Creek,8.3 miles,1699 feet,4.6,0,0,1,1,0,0,-122.231997,37.2446774,#N/A,#N/A
+Fallen Leaf Lake Trail,8.1 miles,606 feet,4,0,0,1,1,0,0,-120.0742364,38.8786393,MODERATE,Loop
+Fay Canyon-Luther Creek Trail,6.9 miles,1177 feet,4.3,0,0,1,0,1,0,-119.8107104,38.8702089,MODERATE,Out & Back
+Fern Canyon Loop Trail,1.1 miles,118 feet,4.7,1,0,0,1,0,0,-124.0658822,41.4006253,#N/A,#N/A
+Fern Canyon Trail,8.3 miles,826 feet,4.5,0,0,1,1,0,0,-124.0658822,41.4006253,MODERATE,Loop
+Fern Lake Trail,3.2 miles,1578 feet,4.7,0,1,0,0,1,0,-122.5401467,38.3453839,HARD,Out & Back
+Ferndell to the West Observatory Loop Trail to Griffith Observatory,2.5 miles,613 feet,4.4,1,0,0,1,0,0,-118.3076918,34.1093847,#N/A,#N/A
+Fiesta Island Trail,4.1 miles,32 feet,3.9,1,0,0,1,0,0,-117.2153764,32.7711421,EASY,Loop
+Fishermans Camp via Tenaja Falls Trailhead,4.3 miles,446 feet,4.1,0,0,1,0,1,0,-117.3983649,33.5558946,MODERATE,Out & Back
+Five Lakes Trail,4.4 miles,1118 feet,4.5,0,0,1,1,0,0,-120.2421115,39.1780835,#N/A,#N/A
+Flanagan and Chamise Peak Trail,4.6 miles,688 feet,4.5,1,0,0,0,1,0,-122.4366825,40.6874561,EASY,Out & Back
+Flume Trail,4.5 miles,1305 feet,3.9,0,0,1,0,1,0,-119.9303436,39.2337508,MODERATE,Out & Back
+Folsom Lake Granite Bay Trail,3.7 miles,114 feet,3.6,0,0,1,1,0,0,-121.1273789,38.6970242,MODERATE,Loop
+Fonts Point,7.9 miles,547 feet,4.6,1,0,0,0,1,0,-116.316177,33.187332,EASY,Out & Back
+Foresthill Divide Loop Trail,10.7 miles,1551 feet,4,0,0,1,1,0,0,-120.9541766,38.9737356,MODERATE,Loop
+Fort Funston Trail,1.9 miles,213 feet,4.2,0,0,1,1,0,0,-122.5028052,37.7195436,MODERATE,Loop
+Fortuna Mountain Trail,6 miles,1332 feet,4.4,0,1,0,1,0,0,-117.0556493,32.8349726,#N/A,#N/A
+Fortynine Palms Oasis Trail,2.8 miles,620 feet,4.4,0,0,1,0,1,0,-116.1121121,34.1192942,MODERATE,Out & Back
+Fossil Falls Trail,0.5 miles,22 feet,4.2,1,0,0,0,1,0,-117.908936,35.9712381,EASY,Out & Back
+Four Mile Trail,7.5 miles,3277 feet,4.7,0,1,0,0,1,0,-119.5873364,37.7332448,#N/A,#N/A
+Franklin Canyon Site Trail,1.9 miles,206 feet,4.2,1,0,0,1,0,0,-118.4094889,34.1230546,#N/A,#N/A
+Freel Peak Trail,9.7 miles,3763 feet,4.6,0,1,0,0,1,0,-119.9004576,38.8576846,HARD,Out & Back
+French Trail and Stream Trail Loop via Skyline Blvd,7.5 miles,1309 feet,4.5,0,0,1,1,0,0,-122.1444402,37.8020533,#N/A,#N/A
+Fryman Canyon Trail,3.4 miles,688 feet,4.1,0,0,1,1,0,0,-118.3907507,34.1239387,#N/A,#N/A
+Fullerton Loop Trail,11.2 miles,744 feet,4.1,0,0,1,1,0,0,-117.9267063,33.8804174,#N/A,#N/A
+Garcia Trail to Azusa Peak [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-117.8891254,34.1512874,#N/A,#N/A
+Garland Ranch Waterfall Trail,2.1 miles,275 feet,4.4,0,0,1,1,0,0,-121.7667454,36.5100499,MODERATE,Loop
+Garnet Peak Trail,2.2 miles,492 feet,4.4,1,0,0,0,1,0,-116.4608303,32.9152254,EASY,Out & Back
+Gaviota Hot Springs and Trespass Trail,6.5 miles,2066 feet,4.2,0,0,1,1,0,0,-120.2299976,34.4775613,MODERATE,Loop
+Gaviota Peak Trail,5.9 miles,2162 feet,4.4,0,0,1,0,1,0,-120.1987606,34.5019331,MODERATE,Out & Back
+Gaviota Wind Caves Trail,2 miles,492 feet,4.2,0,0,1,0,1,0,-120.2299976,34.4775613,MODERATE,Out & Back
+General Grant Loop Trail,0.5 miles,29 feet,4.5,1,0,0,1,0,0,-118.9759417,36.7466133,EASY,Loop
+General Sherman Tree Trail,0.8 miles,154 feet,4.2,1,0,0,0,1,0,-118.751442,36.5817069,#N/A,#N/A
+Giant Forest Loop Trail,7 miles,1282 feet,4.6,1,0,0,1,0,0,-118.7514868,36.5624446,EASY,Loop
+Gibson Ranch Regional Park Loop Trail ,3.1 miles,49 feet,3.8,1,0,0,1,0,0,-121.4034049,38.723755,EASY,Loop
+Glacier Point Trail,0.6 miles,262 feet,4.7,1,0,0,0,1,0,-122.8644389,38.1944152,#N/A,#N/A
+Glen Alpine Trail,5.1 miles,692 feet,4.4,0,0,1,0,1,0,-120.0809122,38.8772236,MODERATE,Out & Back
+Gliderport to Black's Beach,0 miles,0 feet,0,0,0,0,0,0,0,-117.251201,32.889867,#N/A,#N/A
+Goat Mountain Trail,9.1 miles,1742 feet,3.9,0,0,1,0,1,0,-119.5797561,37.2916964,MODERATE,Out & Back
+Golden Canyon Trail,3 miles,613 feet,4.4,0,1,0,0,1,0,-116.8467738,36.4207027,HARD,Out & Back
+Golden Gate Bridge from Baker Beach Trail,6.3 miles,718 feet,4.5,0,0,1,0,1,0,-122.483638,37.7935724,MODERATE,Out & Back
+Golden Gate Park Trail,6.1 miles,262 feet,4.2,1,0,0,1,0,0,-122.4862138,37.7694208,EASY,Loop
+Goodspeed-Nattkemper Trail to Mount Hood Peak [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-122.5541491,38.4599104,#N/A,#N/A
+Graffiti Waterfall [PRIVATE PROPERTY],0 miles,0 feet,0,0,0,0,0,0,0,-117.498611,33.879482,#N/A,#N/A
+Granite Lake & Maggie's Peaks,0 miles,0 feet,0,0,0,0,0,0,0,-120.1161329,38.9357578,#N/A,#N/A
+Gray Whale Cove Trail,2.2 miles,269 feet,4.2,1,0,0,0,1,0,-122.5126581,37.5579273,#N/A,#N/A
+Grays Peak Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-116.9480038,34.26306,#N/A,#N/A
+Green Valley Trail,2.2 miles,364 feet,4.2,1,0,0,1,0,0,-120.8699617,35.53381,EASY,Loop
+Griffith Park Hollywood Sign Trail,8.7 miles,1906 feet,4.3,0,0,1,1,0,0,-118.3215482,34.1341151,#N/A,#N/A
+Grotto Trail,2.5 miles,561 feet,4.4,1,0,0,1,0,0,-118.5214183,34.3090645,#N/A,#N/A
+Guajome Regional Park Trail,4.3 miles,200 feet,3.7,1,0,0,1,0,0,-117.2749009,33.2451864,EASY,Loop
+Guatay Mountain Trail,5.3 miles,1564 feet,4.3,0,1,0,0,1,0,-116.5741849,32.8433842,HARD,Out & Back
+Guy Fleming Trail,0.6 miles,32 feet,4.4,1,0,0,1,0,0,-117.2569755,32.9239154,EASY,Loop
+Guy West Bridge to Goethe Park,4.7 miles,137 feet,3.8,1,0,0,1,0,0,-121.4196834,38.5626046,EASY,Loop
+Half Dome Trail,14.8 miles,5164 feet,4.9,0,1,0,0,1,0,-119.5242119,37.7495807,#N/A,#N/A
+Hamms Gulch Trail,6.7 miles,1446 feet,4.4,0,0,1,0,1,0,-122.2301263,37.3622036,MODERATE,Out & Back
+Harkins Ridge Trail,7 miles,1699 feet,4.6,0,0,1,1,0,0,-122.3544373,37.4428767,MODERATE,Loop
+Hart Park Trail,1.8 miles,498 feet,3.9,1,0,0,1,0,0,-118.9081356,35.4444575,EASY,Loop
+Hastain Trail,2.3 miles,580 feet,4.1,0,0,1,1,0,0,-118.4100253,34.1077557,MODERATE,Loop
+Hazard Peak Trail,11.2 miles,1811 feet,4.3,0,0,1,1,0,0,-120.8639351,35.2813824,MODERATE,Loop
+Heart Lake Trail From Castle Lake,2 miles,682 feet,4.6,0,0,1,0,1,0,-122.3831603,41.2270134,MODERATE,Out & Back
+Heart Rock Trail,1.7 miles,229 feet,4.3,1,0,0,0,1,0,-117.3055101,34.259675,#N/A,#N/A
+Heather Lake via Watchtower Trail,8.1 miles,2112 feet,4.7,0,0,1,0,1,0,-118.6676783,36.601242,MODERATE,Out & Back
+Hermit Falls Trail,2.5 miles,698 feet,4.1,0,0,1,0,1,0,-118.0170987,34.1912347,#N/A,#N/A
+Hidden Falls Trail,3.2 miles,488 feet,4.2,0,0,1,1,0,0,-121.1641735,38.9589121,#N/A,#N/A
+Hidden Horseshoe and Pushwalla Palms Trail,5.6 miles,944 feet,4.2,0,0,1,1,0,0,-116.30969,33.83693,MODERATE,Loop
+Hidden Valley Nature Trail,1 miles,114 feet,4.5,1,0,0,1,0,0,-116.168094,34.01242,#N/A,#N/A
+High Marsh Loop Trail,6.3 miles,1148 feet,4.3,0,0,1,1,0,0,-122.6353883,37.9318433,MODERATE,Loop
+High Peaks Condor Gulch Trail,4.6 miles,1479 feet,4.6,0,1,0,1,0,0,-121.1824925,36.4905655,#N/A,#N/A
+High Sierra Trail : Crescent Meadow to Whitney Portal,59 miles,15475 feet,4.7,0,1,0,0,0,1,-118.621341,36.565157,HARD,Point to Point
+High Water Trail to Cascade Falls,1.5 miles,160 feet,4.3,1,0,0,0,1,0,-122.6224248,37.9845522,EASY,Out & Back
+Hills For Everyone Trail,2.4 miles,433 feet,3.6,1,0,0,0,1,0,-117.7285296,33.9258255,EASY,Out & Back
+Historic Donner Pass Trail,5.5 miles,1095 feet,4.3,1,0,0,1,0,0,-120.3296905,39.3165097,EASY,Loop
+Ho Chi Minh Trail,0.6 miles,246 feet,4.6,0,0,1,0,1,0,-117.2516781,32.8851005,MODERATE,Out & Back
+Hollyridge Trail to Hollywood Sign Viewpoint,5.1 miles,849 feet,4.1,0,0,1,0,1,0,-118.3215482,34.1341151,#N/A,#N/A
+Hollywood Sign via Canyon Drive,5.9 miles,1138 feet,4.4,0,0,1,0,1,0,-118.3133095,34.1250646,#N/A,#N/A
+Holy Jim Canyon Trail,2.9 miles,620 feet,4.2,0,0,1,0,1,0,-117.5126501,33.6879423,#N/A,#N/A
+Homestead-Blue Ridge Trail,5.1 miles,1456 feet,4.4,0,1,0,1,0,0,-122.096541,38.5120725,#N/A,#N/A
+Horn Canyon Trail (CLOSED),5 miles,1919 feet,4.1,0,0,1,0,1,0,-119.1768825,34.464733,MODERATE,Out & Back
+Horsetail Falls Trail,3.3 miles,649 feet,4.6,0,0,1,0,1,0,-120.123242,38.8304633,#N/A,#N/A
+Horsethief Canyon Trail,3.3 miles,498 feet,4.1,1,0,0,0,1,0,-122.3585438,37.9219612,EASY,Out & Back
+Huckleberry Nature Path Trail,2.1 miles,380 feet,4.3,1,0,0,1,0,0,-122.1950259,37.842887,EASY,Loop
+Hulda Crooks Jedi Trail,6.2 miles,1026 feet,4.2,0,0,1,1,0,0,-117.2447231,34.0386602,MODERATE,Loop
+Hummingbird Trail,3.7 miles,1069 feet,4.4,0,1,0,0,1,0,-118.6494315,34.2767776,HARD,Out & Back
+Icehouse Canyon to Cucamonga Peak Trail,10.2 miles,4192 feet,4.8,0,1,0,0,1,0,-117.5852269,34.222486,#N/A,#N/A
+Independence Trail West,4.9 miles,429 feet,4.2,1,0,0,0,1,0,-121.1091212,39.2879815,EASY,Out & Back
+Indian Joe Creek Trail,5.3 miles,1207 feet,4.1,0,0,1,1,0,0,-121.8282886,37.5141025,MODERATE,Loop
+Indian Truck Trail,11 miles,4688 feet,4.2,0,0,1,0,0,1,-117.4884635,33.72107,MODERATE,Point to Point
+Inspiration Point Loop Trail,9.9 miles,2624 feet,4.7,0,1,0,1,0,0,-119.7142799,34.4720076,HARD,Loop
+Inspiration Point Trail,2.1 miles,324 feet,4.2,1,0,0,1,0,0,-119.7142799,34.4720076,MODERATE,Out & Back
+Iron Mountain Trail,5.2 miles,1102 feet,4.4,0,0,1,1,0,0,-116.9624877,32.9774561,#N/A,#N/A
+Iron Mountain via Ellie Lane Trail,9 miles,1909 feet,4.5,0,0,1,0,1,0,-116.9624877,32.9774561,MODERATE,Out & Back
+Island and Twin Lakes,7.1 miles,1571 feet,4.6,0,0,1,0,1,0,-120.2262948,38.8503468,#N/A,#N/A
+Jamison Lake,6.1 miles,1023 feet,4.7,0,0,1,0,1,0,-120.6994265,39.7093608,MODERATE,Out & Back
+Jesusita Trail,6.8 miles,1574 feet,4.2,0,0,1,0,1,0,-119.717965,34.4726965,MODERATE,Out & Back
+Jim Green Trail,1.6 miles,167 feet,4.1,1,0,0,1,0,0,-120.645858,35.479277,EASY,Loop
+John Muir Trail Via Yosemite Valley,203.1 miles,46030 feet,4.8,0,1,0,0,0,1,-119.5580092,37.729371,#N/A,#N/A
+Johnsondale Bridge Trail,8.1 miles,738 feet,4.2,1,0,0,0,1,0,-118.4874213,35.9694105,EASY,Out & Back
+Jones Bar and West Trail Loop,3.6 miles,544 feet,4,0,0,1,1,0,0,-121.1050147,39.2907715,MODERATE,Loop
+Juniper to the Summit Loop Trail and Meridian Ridge,6.3 miles,1955 feet,4.3,0,1,0,1,0,0,-121.9141528,37.8815913,HARD,Loop
+Keller Peak,12.5 miles,2267 feet,4.2,0,0,1,0,1,0,-117.0495951,34.1958729,MODERATE,Out & Back
+Kenneth Hahn Recreation Area,2.6 miles,377 feet,4.2,1,0,0,1,0,0,-118.3641631,34.0078314,EASY,Loop
+King's Canyon Loop Trail,0 miles,0 feet,0,0,0,0,0,0,0,-118.5827456,36.7946543,#N/A,#N/A
+Kitchen Creek Falls Trail,4.6 miles,813 feet,4.2,0,0,1,0,1,0,-116.4673211,32.7434987,MODERATE,Out & Back
+Klondike and Portuguese Canyon Trails,5.5 miles,1351 feet,4.4,0,0,1,1,0,0,-118.3608046,33.7489458,#N/A,#N/A
+Knapp's Castle Trail,0 miles,0 feet,0,0,0,0,0,0,0,-119.7933008,34.5231847,#N/A,#N/A
+Kwaay Paay Peak Trail,2.3 miles,875 feet,4.3,0,0,1,0,1,0,-117.0423569,32.8327371,#N/A,#N/A
+La Canada Teepee via Crosstown Trail,2.7 miles,1312 feet,4.4,0,0,1,0,1,0,-118.2000277,34.2068182,MODERATE,Out & Back
+La Jolla Canyon Loop Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-119.0406101,34.088788,#N/A,#N/A
+La Tuna Canyon Loop Trail,5.9 miles,1427 feet,4.4,0,0,1,1,0,0,-118.3189262,34.2365396,#N/A,#N/A
+Ladder Canyon Trail,4.5 miles,967 feet,4.7,0,0,1,1,0,0,-115.9959939,33.6256206,#N/A,#N/A
+Ladybug Camp Trail,3.5 miles,898 feet,4.1,0,0,1,0,1,0,-118.765781,36.3501957,MODERATE,Out & Back
+Lafayette Reservoir Nature Area Rim Trail,5 miles,908 feet,4.3,0,0,1,1,0,0,-122.145527,37.8847926,#N/A,#N/A
+Lagoon Valley Park Mtb Trail,7.3 miles,921 feet,3.9,0,0,1,1,0,0,-122.015056,38.3348146,MODERATE,Loop
+Laguna Mountain Ridge via the PCT,16.6 miles,2198 feet,4.4,1,0,0,0,1,0,-116.4394502,32.8400248,EASY,Out & Back
+Lake Aloha Trail,14.5 miles,1899 feet,4.7,0,0,1,1,0,0,-120.1372782,38.8646803,#N/A,#N/A
+Lake Calavera,4.9 miles,528 feet,4.1,0,0,1,1,0,0,-117.288254,33.171089,#N/A,#N/A
+Lake Chabot Trail ,8.4 miles,836 feet,4.3,0,0,1,1,0,0,-122.1047047,37.7147519,#N/A,#N/A
+Lake Gregory Trail,2.3 miles,65 feet,4.3,1,0,0,1,0,0,-117.275233,34.242901,EASY,Loop
+Lake Hodges Overlook Trail,6.1 miles,1272 feet,4.3,0,0,1,0,1,0,-117.1161803,33.0604782,#N/A,#N/A
+Lake Hodges Trail,16.5 miles,757 feet,4.2,1,0,0,0,1,0,-117.1202708,33.0630613,EASY,Out & Back
+Lake Margaret Trail,4.6 miles,534 feet,4.6,0,0,1,0,1,0,-120.0699162,38.704456,#N/A,#N/A
+Lake Marie Trail,6.4 miles,1292 feet,4.2,1,0,0,1,0,0,-122.2386248,38.2691982,EASY,Loop
+Lake Merritt,3.1 miles,45 feet,4.3,1,0,0,1,0,0,-122.258299,37.8012389,EASY,Loop
+Lake Natoma Trail,11.1 miles,423 feet,4.1,1,0,0,1,0,0,-121.2088386,38.6654761,EASY,Loop
+Lake Poway Loop Trail,2.5 miles,452 feet,4.3,0,0,1,1,0,0,-117.0293584,33.0036271,#N/A,#N/A
+Lake Ralphine and Spring Lake Loop,3.5 miles,164 feet,4.1,1,0,0,1,0,0,-122.6505126,38.4494698,EASY,Loop
+Lake Sabrina to Blue Lake Trail,5 miles,1535 feet,4.6,0,0,1,0,1,0,-118.6184567,37.2062364,MODERATE,Out & Back
+Lake Winnemucca from Carson Pass via Pacific Crest Trail,5.2 miles,616 feet,4.6,0,0,1,0,1,0,-119.9885161,38.6937963,MODERATE,Out & Back
+Lands End Trail,3.4 miles,534 feet,4.5,0,0,1,1,0,0,-122.5055626,37.7858067,#N/A,#N/A
+Las Llajas Trail,9.3 miles,1722 feet,4.2,0,1,0,1,0,0,-118.6803337,34.2969901,HARD,Loop
+Laskey Mesa Trail,5.2 miles,620 feet,4.3,0,0,1,1,0,0,-118.6858297,34.1802362,MODERATE,Loop
+Lassen Peak,4.2 miles,1948 feet,4.7,0,0,1,0,1,0,-121.50493,40.4880757,#N/A,#N/A
+Laurel Canyon - Bommer Ridge Loop,3.3 miles,603 feet,4.4,0,0,1,1,0,0,-118.3840629,34.1173599,#N/A,#N/A
+Lawson Peak Trail,4.3 miles,1499 feet,4.5,0,1,0,0,1,0,-116.726409,32.7261668,HARD,Out & Back
+Lembert Dome Loop,0 miles,0 feet,0,0,0,0,0,0,0,-119.3489603,37.8804706,#N/A,#N/A
+Lewis Creek National Scenic Trail to Corlley Falls and Red Rock Falls,5.5 miles,977 feet,4.5,0,0,1,0,1,0,-119.6256722,37.4033195,#N/A,#N/A
+Lewis Falls Trail,0.8 miles,374 feet,4.4,1,0,0,0,1,0,-78.4509136,38.5260931,EASY,Out & Back
+Limekiln Creek Falls Trail,0.9 miles,193 feet,4.7,0,0,1,0,1,0,-121.5224711,36.0200429,MODERATE,Out & Back
+Little Baldy Trail,3.3 miles,793 feet,4.7,0,0,1,0,1,0,-118.8045446,36.6143895,MODERATE,Out & Back
+Little Canyon Loop,2.2 miles,400 feet,4.3,0,0,1,1,0,0,-117.7686735,33.9130001,MODERATE,Loop
+Little Lakes Valley to Gem Lakes,7.2 miles,994 feet,4.8,0,0,1,0,1,0,-118.7972579,37.4614038,#N/A,#N/A
+Loch Leven Lakes Trail,7 miles,1512 feet,4.3,0,1,0,0,1,0,-120.5157039,39.3092634,#N/A,#N/A
+Loch Lomond Recreation Area,4.3 miles,853 feet,4.4,0,0,1,1,0,0,-122.064812,37.1109704,MODERATE,Loop
+Lodi Lake Nature Trail,1.8 miles,6 feet,3.7,1,0,0,1,0,0,-121.292847,38.146277,EASY,Loop
+Los Gatos Creek Trail,3.8 miles,511 feet,4,1,0,0,1,0,0,-121.9509965,37.26427,#N/A,#N/A
+Los Jilgueros Preserve Trail,1.2 miles,62 feet,4,1,0,0,1,0,0,-117.2476923,33.3589855,EASY,Loop
+Los Liones Canyon and East Topanga Fire Road,10.1 miles,2427 feet,4.5,0,1,0,1,0,0,-118.5574858,34.0532112,#N/A,#N/A
+Los Penasquitos Canyon (from Lopez Canyon),11.3 miles,528 feet,4.2,1,0,0,1,0,0,-117.2065043,32.9065687,#N/A,#N/A
+Lost Coast Trail: Mattole to Black Sands Beach,25.3 miles,1578 feet,4.7,0,0,1,0,0,1,-124.3539389,40.3023576,#N/A,#N/A
+Lost Horse Mine Loop Trail,6.5 miles,810 feet,4.3,0,0,1,1,0,0,-116.1412047,33.9418001,#N/A,#N/A
+Lost Palms Oasis,7.2 miles,1026 feet,4.5,0,0,1,0,1,0,-115.7882997,33.7254818,#N/A,#N/A
+Lovers Leap Trail,2.8 miles,531 feet,4.3,0,0,1,0,1,0,-82.8234458,35.8928489,MODERATE,Out & Back
+Lower Otay Lake,5.3 miles,104 feet,3.9,1,0,0,0,1,0,-116.9249,32.6372,EASY,Out & Back
+Lower Yosemite Falls Trail,1 miles,52 feet,4.3,1,0,0,1,0,0,-119.5962486,37.7464114,#N/A,#N/A
+Lyons Creek Trail,12.3 miles,2286 feet,4.5,0,1,0,0,1,0,-120.239493,38.8102263,HARD,Out & Back
+Main Divide Road,19.9 miles,4931 feet,3.9,0,0,1,0,0,1,-117.5488901,33.7601535,MODERATE,Point to Point
+Malibu Lake Trail,6.2 miles,396 feet,4.2,0,0,1,1,0,0,-118.7314142,34.0979551,#N/A,#N/A
+Mandeville Canyon Trail,7.1 miles,1102 feet,4.3,0,0,1,0,1,0,-118.5033312,34.0936022,#N/A,#N/A
+Manzanita Lake Loop,1.9 miles,45 feet,4.3,1,0,0,1,0,0,-121.5673417,40.5326867,EASY,Loop
+Marble Fork Trail to Marble Falls,6 miles,1702 feet,4.4,0,0,1,0,1,0,-118.7994916,36.521132,#N/A,#N/A
+Marion Mountain to San Jacinto,12.6 miles,4517 feet,4.7,0,1,0,0,1,0,-116.6791834,33.814463,#N/A,#N/A
+Mariposa Grove of Giant Sequoias Trail (CLOSED),7.6 miles,1466 feet,4.3,0,0,1,1,0,0,-119.6046848,37.5098372,MODERATE,Loop
+Marshall Canyon Trail,10.4 miles,1407 feet,4.2,1,0,0,1,0,0,-117.7430883,34.1508211,#N/A,#N/A
+Martin Canyon Creek Trail,2.9 miles,554 feet,4.1,1,0,0,0,1,0,-121.9564174,37.7079826,EASY,Out & Back
+Martis Creek Trail,4.1 miles,150 feet,4.2,0,0,1,1,0,0,-120.130895,39.3016896,MODERATE,Loop
+Martis Peak Trail,9.3 miles,1912 feet,4.3,0,0,1,0,1,0,-120.0519991,39.3171612,MODERATE,Out & Back
+Mastodon Peak Loop Trail,2.3 miles,357 feet,4.2,1,0,0,1,0,0,-115.7992148,33.7341775,EASY,Loop
+McCallum Trail,1.7 miles,91 feet,4,1,0,0,0,1,0,-116.308784,33.8378001,EASY,Out & Back
+McCloud Waterfall Trail,3.5 miles,354 feet,4.6,1,0,0,0,1,0,-122.0090503,41.2403296,EASY,Out & Back
+McGinty Mountain Trail,4.6 miles,1384 feet,4.2,0,0,1,0,1,0,-116.8608569,32.7519979,#N/A,#N/A
+McLeod Lake Trail,1.8 miles,351 feet,4.2,1,0,0,1,0,0,-82.8234458,35.8928489,EASY,Loop
+Meeks Bay Trail to Lake Genevieve and Crag Lake,9.8 miles,1243 feet,4.6,0,0,1,0,1,0,-120.1843551,38.9499076,MODERATE,Out & Back
+Mesquite Flat Sand Dunes Trail,2.8 miles,206 feet,4.4,1,0,0,0,1,0,-117.1131444,36.6151215,EASY,Out & Back
+Methuselah National Recreation Loop Trail,3.7 miles,826 feet,4.7,0,0,1,1,0,0,-118.1782731,37.3853104,MODERATE,Loop
+Michael D Antonovich Trail,6 miles,416 feet,4.2,1,0,0,0,1,0,-117.8204419,34.0910995,#N/A,#N/A
+Mill Creek Trail,14.9 miles,4206 feet,4.3,0,0,1,0,1,0,-123.5297808,41.1489979,MODERATE,Out & Back
+Miner's Trail,0 miles,0 feet,0,0,0,0,0,0,0,-121.0586286,39.2105845,#N/A,#N/A
+Mineral King to Eagle Lake Trail,6.5 miles,2175 feet,4.7,0,0,1,0,1,0,-118.6071518,36.4146254,MODERATE,Out & Back
+Miners Ravine Trail,8.4 miles,262 feet,3.9,1,0,0,0,1,0,-121.2415409,38.7514265,EASY,Out & Back
+Mirror Lake via Valley Loop Trail,5 miles,265 feet,4.1,1,0,0,1,0,0,-119.550559,37.749392,#N/A,#N/A
+Mishe Mokwa to Tri-Peaks and Sandstone Peak,6.8 miles,1692 feet,4.6,0,0,1,1,0,0,-118.9319547,34.1203528,#N/A,#N/A
+Mishe Mokwa Trail to Sandstone Peak,5.6 miles,1368 feet,4.7,0,0,1,1,0,0,-118.9319547,34.1203528,#N/A,#N/A
+Mishe Mokwa Trail to Split Rock Trail,6 miles,1410 feet,4.8,0,0,1,0,1,0,-118.9317334,34.1275027,MODERATE,Out & Back
+Mission Peak Loop from Stanford Avenue Staging Area,5.8 miles,2135 feet,4.3,0,1,0,1,0,0,-121.8768889,37.5053082,#N/A,#N/A
+Mission Point via Bee Canyon Trail,5.6 miles,1443 feet,4.4,0,0,1,0,1,0,-118.5136168,34.3093955,#N/A,#N/A
+Mission Viejo's Oso Creek Trail,0 miles,0 feet,0,0,0,0,0,0,0,-117.6513776,33.6012998,#N/A,#N/A
+Mist Falls Trail,8.1 miles,889 feet,4.7,0,0,1,0,1,0,-118.54871,36.8135489,#N/A,#N/A
+Miwok Trail,10.4 miles,1876 feet,4.1,0,1,0,0,1,0,-122.5374272,37.8626994,HARD,Out & Back
+Miwok Trail and Hardy Canyon Loop Trail,4.7 miles,980 feet,4.1,0,0,1,1,0,0,-121.7514855,37.867596,MODERATE,Loop
+Mobius Arch Loop Trail,0.6 miles,42 feet,4.6,0,0,1,1,0,0,-118.1249464,36.6113294,MODERATE,Loop
+Mojave River via the PCT,6.4 miles,892 feet,4.2,0,0,1,0,1,0,-121.3857233,40.7542152,#N/A,#N/A
+Monrovia Canyon Park Trail,5.8 miles,1279 feet,4.3,1,0,0,0,1,0,-117.9871351,34.1749564,EASY,Out & Back
+Monserate Mountain Trail Loop,4.1 miles,1381 feet,4.3,0,1,0,1,0,0,-117.1486433,33.3722538,#N/A,#N/A
+Montara Mountain North Peak Loop Trail,7 miles,1804 feet,4.4,0,1,0,1,0,0,-122.4272222,37.5288888,#N/A,#N/A
+Montara Mountain Trail,6.6 miles,1722 feet,4.4,0,1,0,0,1,0,-122.4872374,37.5711942,#N/A,#N/A
+Monument Peak Trail,9.7 miles,2490 feet,4.4,0,1,0,1,0,0,-121.868082,37.4793349,HARD,Loop
+Mori Point Loop Trail,4.1 miles,583 feet,4.3,1,0,0,1,0,0,-122.4924151,37.6186966,#N/A,#N/A
+Mormon Rocks Interpertive Trail,1 miles,134 feet,3.7,1,0,0,1,0,0,-117.5009109,34.3174637,EASY,Loop
+Moro Rock Trail,0.4 miles,187 feet,4.6,0,0,1,0,1,0,-118.7655927,36.5468705,#N/A,#N/A
+Morton Ridge Trail,4.8 miles,1335 feet,4.2,0,1,0,0,1,0,-117.034508,34.1048868,HARD,Out & Back
+Mosaic Canyon Trail,3.5 miles,1049 feet,4.2,1,0,0,0,1,0,-117.144312,36.5720835,EASY,Out & Back
+Mother Miguel Mountain Via Rock House Trail,4.5 miles,977 feet,4.3,0,0,1,0,1,0,-116.9638234,32.6847112,#N/A,#N/A
+Mother Miguel Mountain via Sweetwater Park,10.9 miles,2335 feet,4.1,0,0,1,0,1,0,-116.9639142,32.6847762,MODERATE,Out & Back
+Mount Baden Powell Trail,8.9 miles,2788 feet,4.7,0,1,0,0,1,0,-117.764504,34.3586117,#N/A,#N/A
+Mount Baldy via Devil's Backbone Trail,0 miles,0 feet,0,0,0,0,0,0,0,-117.6279116,34.2832632,#N/A,#N/A
+Mount Dana Summit Trail,4.8 miles,3083 feet,4.8,0,1,0,0,1,0,-119.2211438,37.8997816,HARD,Out & Back
+Mount Diablo Grand Loop Trail,6.1 miles,1748 feet,4.4,0,0,1,1,0,0,-121.9141528,37.8815913,#N/A,#N/A
+Mount Diablo North Peak Trail,6.5 miles,1912 feet,4.3,0,1,0,0,1,0,-121.9097633,37.8835953,#N/A,#N/A
+Mount Gower Open Space Preserve Trail,9 miles,2178 feet,4.4,0,1,0,1,0,0,-116.79692,33.024839,HARD,Loop
+Mount Hoffman Trail,8.7 miles,2365 feet,4.8,0,1,0,0,1,0,-119.511891,37.8469906,HARD,Out & Back
+Mount Hollywood Trail,5.3 miles,1250 feet,4.2,0,0,1,1,0,0,-118.3019533,34.1245576,#N/A,#N/A
+Mount Judah Loop Trail,4.8 miles,1220 feet,4.6,0,0,1,1,0,0,-120.2718506,39.3160638,#N/A,#N/A
+Mount Langley,18.4 miles,4330 feet,4.8,0,1,0,0,1,0,-118.2389774,36.5232685,HARD,Out & Back
+Mount Lowe Railway Loop,9.8 miles,2762 feet,4.4,0,0,1,1,0,0,-118.1059034,34.231948,#N/A,#N/A
+Mount Lowe Road to Inspiration Point,7 miles,1023 feet,4.6,0,0,1,0,1,0,-118.1093619,34.2215294,MODERATE,Out & Back
+Mount Lukens Via Dunsmore Canyon,8.7 miles,2562 feet,4.5,0,1,0,1,0,0,-118.2389643,34.268891,HARD,Loop
+Mount Lukens via Stone Canyon,8.3 miles,3192 feet,3.8,0,1,0,0,1,0,-118.2389643,34.268891,HARD,Out & Back
+Mount McCoy Trail,5 miles,1181 feet,4,0,0,1,0,1,0,-118.7995578,34.2645613,MODERATE,Out & Back
+Mount Pinos Trail,3.5 miles,531 feet,4.5,0,0,1,0,1,0,-119.1454286,34.8128386,MODERATE,Out & Back
+Mount Rubidoux Trail,2.7 miles,393 feet,4.3,1,0,0,1,0,0,-117.3908725,33.9884257,#N/A,#N/A
+Mount Saint Helena Trail,9.3 miles,2099 feet,4.3,0,1,0,0,1,0,-122.6217555,38.6616875,#N/A,#N/A
+Mount San Antonio & Mount Baldy Notch Trail,9.2 miles,3940 feet,4.7,0,1,0,1,0,0,-117.6467218,34.2888927,#N/A,#N/A
+Mount Tallac Trail,10.2 miles,3290 feet,4.8,0,1,0,0,1,0,-120.0782091,38.9043571,#N/A,#N/A
+Mount Whitney via Mount Whitney Trail,21.9 miles,6715 feet,4.9,0,1,0,0,1,0,-118.2616315,36.5712555,#N/A,#N/A
+Mount Wilson Loop via Chantry Flats,12.6 miles,4274 feet,4.4,0,1,0,1,0,0,-118.0642319,34.2264226,#N/A,#N/A
+Mount Wilson Trail,12.5 miles,4429 feet,4.5,0,1,0,1,0,0,-118.0642319,34.2264226,#N/A,#N/A
+Mount Wilson via Chantry Flats,12.8 miles,4320 feet,4.7,0,1,0,1,0,0,-118.0642319,34.2264226,HARD,Loop
+Mount Wilson via Little Santa Anita Canyon,13.4 miles,4583 feet,4.3,0,1,0,0,1,0,-118.0225668,34.170839,HARD,Out & Back
+Mount Zion Loop - Sturtevant to Winter Creek Trails,8.5 miles,2217 feet,4.6,0,1,0,1,0,0,-118.0225668,34.170839,#N/A,#N/A
+Muir Beach to Rodeo Beach,11.3 miles,3438 feet,4.7,0,1,0,0,1,0,-122.5370429,37.830669,#N/A,#N/A
+Muir Woods Trail,2.2 miles,144 feet,4.5,1,0,0,1,0,0,-122.5811177,37.8970199,#N/A,#N/A
+Murphy Ranch Trail,3.4 miles,554 feet,4.3,0,0,1,1,0,0,-117.9815289,33.9595774,#N/A,#N/A
+Murray Canyon Trail to Seven Falls,3.9 miles,593 feet,4.6,1,0,0,0,1,0,-116.539737,33.7497062,#N/A,#N/A
+Museum Trail,0.6 miles,377 feet,4.2,0,0,1,1,0,0,-116.549431,33.8241903,MODERATE,Loop
+Mystic Canyon and Upper Monroe Trail,9 miles,2565 feet,4.3,0,1,0,0,1,0,-117.8321113,34.1719773,HARD,Out & Back
+N. Fork Matilija Trail 23W07 (CLOSED),6.2 miles,593 feet,4.1,0,0,1,0,1,0,-119.3844044,34.5086343,#N/A,#N/A
+Natural Bridge Trail,4.3 miles,1000 feet,3.8,1,0,0,0,1,0,-116.769535,36.2838049,EASY,Out & Back
+Noble Canyon Trail,19.2 miles,3038 feet,4.4,0,0,1,0,1,0,-116.4922388,32.8721503,MODERATE,Out & Back
+Nojoqui Falls County Park Trail,0.6 miles,131 feet,4,1,0,0,0,1,0,-120.1775889,34.5344714,EASY,Out & Back
+North Etiwanda Falls and Preserve Loop,4.7 miles,915 feet,4.4,0,0,1,1,0,0,-117.523343,34.1640697,MODERATE,Loop
+North Fortuna via Rolling Hills,5.2 miles,1171 feet,4.4,0,1,0,1,0,0,-117.0603963,32.8467333,#N/A,#N/A
+North Ridge and Sunset Trail Loop,4.8 miles,777 feet,4.5,1,0,0,1,0,0,-122.4321815,37.8673362,#N/A,#N/A
+North Ridge Trail,4.3 miles,1230 feet,4.2,0,0,1,0,1,0,-122.434127,37.8690152,EASY,Out & Back
+North Rim Trail to Eagle Rock,1.9 miles,305 feet,3.9,1,0,0,0,1,0,-121.802276,37.396869,EASY,Out & Back
+North Table Mountain Ecological Preserve Loop Trail,4.2 miles,334 feet,4.1,0,0,1,1,0,0,-121.5556526,39.5980037,#N/A,#N/A
+North Trail,5.2 miles,748 feet,4.5,0,0,1,0,1,0,-122.4484876,37.8684233,#N/A,#N/A
+Oak Canyon Bluebird and Wren Trail,1.5 miles,219 feet,4.3,1,0,0,1,0,0,-117.7568583,33.8385103,EASY,Loop
+Oak Glen Preserve Trails,2.4 miles,357 feet,4.7,1,0,0,1,0,0,-116.9412888,34.0403776,EASY,Loop
+Oak Oasis Open Space Preserve,2.6 miles,311 feet,4.4,1,0,0,1,0,0,-116.8966313,32.9156636,#N/A,#N/A
+Oakmont and Oakridge Trail,2.2 miles,311 feet,4.1,0,0,1,1,0,0,-117.1214609,34.0109413,MODERATE,Loop
+Old Briones Road Trail,3.1 miles,442 feet,4.2,0,0,1,0,1,0,-122.1406088,37.9374012,MODERATE,Out & Back
+Old Landing Cove Trail,2.3 miles,85 feet,4.5,1,0,0,1,0,0,-122.0833662,36.9608175,#N/A,#N/A
+Old Pinnacles Trail Loop,9.5 miles,1732 feet,4.7,0,0,1,1,0,0,-121.1849496,36.5024325,#N/A,#N/A
+Old Zoo Trail,7 miles,561 feet,4,0,0,1,1,0,0,-118.2893765,34.133849,#N/A,#N/A
+Olmstead Loop Trail,8.2 miles,587 feet,3.9,0,0,1,1,0,0,-121.0167163,38.8892283,MODERATE,Loop
+Oso Flaco Lake Trail,1.7 miles,22 feet,4.3,1,0,0,0,1,0,-120.5770936,35.0134308,EASY,Out & Back
+Otay Mountain Truck Trail to Marron Valley Road,13.8 miles,3113 feet,4.2,0,1,0,0,0,1,-116.8436315,32.6077517,HARD,Point to Point
+Overlook Trail to McWay Falls and Saddle Rock,1 miles,114 feet,4.6,1,0,0,0,1,0,-121.6732815,36.1577405,#N/A,#N/A
+Pa'san Ridge Trail,0 miles,0 feet,0,0,0,0,0,0,0,-119.5521245,37.088396,#N/A,#N/A
+Packsaddle Cave Trail,5 miles,1706 feet,4.2,0,0,1,0,1,0,-118.4909452,35.9282907,MODERATE,Out & Back
+Paintbrush Trail to Portugese Bend,5.9 miles,964 feet,4.4,0,0,1,1,0,0,-118.3608046,33.7489458,#N/A,#N/A
+Palos Verdes Bluffs Trail,2.7 miles,557 feet,4.3,0,0,1,1,0,0,-118.3524752,33.7311357,#N/A,#N/A
+Panorama Loop Trail,6.2 miles,1194 feet,4.4,0,0,1,1,0,0,-116.3966527,34.0538228,MODERATE,Loop
+Panoramic Hill - Chaparral Peak - Strawberry Canyon Loop,5.9 miles,1230 feet,4.5,0,1,0,1,0,0,-122.2230234,37.8782589,#N/A,#N/A
+Paradise Lake Trail,15.4 miles,2611 feet,4.5,0,0,1,0,1,0,-122.0798392,47.7886076,MODERATE,Out & Back
+Parker Lake Trail,3.6 miles,652 feet,4.5,1,0,0,0,1,0,-119.1157277,37.8674686,#N/A,#N/A
+Parker Mesa Overlook Trail,6.5 miles,1125 feet,4.4,1,0,0,0,1,0,-118.5738985,34.0592204,#N/A,#N/A
+Partington Cove Trail,1 miles,285 feet,4.6,0,0,1,0,1,0,-121.6964026,36.1751945,MODERATE,Out & Back
+Paseo Miramar Trail ,4.9 miles,1236 feet,4.5,0,0,1,0,1,0,-118.5642161,34.061004,#N/A,#N/A
+Pentachaeta Loop,4.6 miles,935 feet,3.7,0,1,0,1,0,0,-118.8145243,34.1270892,HARD,Loop
+Peters Canyon Lake View Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-117.7622661,33.7840809,#N/A,#N/A
+Peters Canyon Loop Trail,6 miles,603 feet,4.1,0,0,1,1,0,0,-117.7622661,33.7840809,#N/A,#N/A
+Pfeiffer Falls Trail (CLOSED),1.4 miles,410 feet,3.8,1,0,0,0,1,0,-121.7832863,36.2547251,EASY,Out & Back
+Phoenix Lake Loop via Gertrude Ord Trail,2.7 miles,232 feet,4.6,1,0,0,1,0,0,-122.5772185,37.9549587,EASY,Loop
+Pilot Rock,2.2 miles,780 feet,4.6,0,1,0,0,1,0,-118.8299848,45.4831849,HARD,Out & Back
+Pincushion Mountain Peak ,3.3 miles,1007 feet,4.4,0,0,1,1,0,0,-119.6446843,37.0314663,MODERATE,Loop
+Pine Creek and Wall Point Trail,4 miles,695 feet,4.1,0,0,1,1,0,0,-121.9532927,37.8568696,MODERATE,Loop
+Pine Knot Trail to Grand View Point,6.1 miles,1040 feet,4.5,0,0,1,0,1,0,-116.9276606,34.2354808,#N/A,#N/A
+Pinecrest Lake Loop and Catfish Lake Side Hike,6.9 miles,856 feet,4.5,0,0,1,1,0,0,-119.9972222,38.1908333,MODERATE,Loop
+Pioneer Tree Trail,2.1 miles,203 feet,4.5,1,0,0,1,0,0,-122.7286682,38.017431,EASY,Loop
+Pleasanton Ridge Trail,6.2 miles,1325 feet,4.2,0,0,1,1,0,0,-121.8823708,37.6154094,#N/A,#N/A
+Point Bonita Lighthouse,1 miles,170 feet,4.3,1,0,0,0,1,0,-122.5295287,37.8156056,EASY,Out & Back
+Point Defiance Trail,2.5 miles,498 feet,4.1,1,0,0,1,0,0,-122.5327736,47.3083123,EASY,Loop
+Point Dume Cove Trail,1.2 miles,206 feet,4.5,1,0,0,0,1,0,-118.806442,34.001201,#N/A,#N/A
+Point Loma Tidepools and Bluffs Trail,1 miles,45 feet,4.2,1,0,0,0,1,0,-117.2446206,32.668092,EASY,Out & Back
+Point Reyes National Seashore Trail,12.1 miles,1584 feet,4.3,0,0,1,1,0,0,-122.8817367,38.0722847,#N/A,#N/A
+Pomo Canyon Red Hill Trail,6.2 miles,1597 feet,4.5,0,0,1,1,0,0,-123.0862964,38.427294,#N/A,#N/A
+Porter Ranch Trails,3.7 miles,423 feet,4.2,0,0,1,0,1,0,-118.5278033,34.278611,#N/A,#N/A
+Potato Chip Rock via Mt. Woodson Trail,6.9 miles,2132 feet,4.5,0,0,1,0,1,0,-116.9742491,33.0092674,#N/A,#N/A
+Powder Canyon Loop Trail,6 miles,1279 feet,4.2,0,0,1,1,0,0,-117.9242652,33.963906,#N/A,#N/A
+Pumpkin Rock Trail,1.7 miles,380 feet,4.1,0,0,1,1,0,0,-117.517687,33.9310994,#N/A,#N/A
+Pyles Peak Trail,5.3 miles,1778 feet,4.3,0,0,1,0,1,0,-117.0354727,32.8187595,#N/A,#N/A
+Pyramid Peak Trail,6.3 miles,4045 feet,4.8,0,1,0,0,1,0,-123.8594019,48.066176,MODERATE,Out & Back
+Quail Loop Trail,1.8 miles,144 feet,4,1,0,0,1,0,0,-117.7747095,33.6512826,EASY,Loop
+Quarry Trail,10.8 miles,1240 feet,4.1,0,0,1,0,1,0,-122.4674948,37.8350166,#N/A,#N/A
+Quicksilver Trail,5.1 miles,715 feet,4.4,0,0,1,1,0,0,-121.8527691,37.1824664,#N/A,#N/A
+Rae Lakes Trail,37.2 miles,7844 feet,5,0,1,0,1,0,0,-118.5827456,36.7946543,#N/A,#N/A
+Rainbow Falls via Devils Postpile Trail,4.8 miles,528 feet,4.4,1,0,0,0,1,0,-119.0849506,37.6251062,#N/A,#N/A
+Rainbow Trail,0.7 miles,13 feet,4.1,1,0,0,1,0,0,-105.6691159,38.2633821,EASY,Loop
+Ralph B. Clark Perimeter Trail,1.4 miles,95 feet,4,1,0,0,1,0,0,-117.9779347,33.8932975,EASY,Loop
+Ralston Peak Trail,6.5 miles,2775 feet,4.7,0,0,1,1,0,0,-120.1015747,38.8332409,#N/A,#N/A
+Ramona Grasslands Preserve Trail,3.1 miles,249 feet,4.1,1,0,0,1,0,0,-116.9505358,33.0332762,EASY,Loop
+Rancheria Falls Trail,4.1 miles,649 feet,4.5,1,0,0,0,1,0,-119.7102172,37.9550646,MODERATE,Out & Back
+Rancho Palos Verdes Coastal Trail,5.5 miles,974 feet,4.3,0,0,1,0,1,0,-118.3814232,33.7436722,#N/A,#N/A
+Randall Henderson Loop Trail,2.7 miles,426 feet,3.9,0,0,1,1,0,0,-116.4011,33.6672055,MODERATE,Loop
+Red Hills Loop Trail,3.3 miles,580 feet,3.8,0,0,1,1,0,0,-120.4688858,37.8380234,MODERATE,Loop
+Redtail Loop Trail to Arastradero Creek Trail Loop,5.2 miles,708 feet,4,0,0,1,1,0,0,-122.1738374,37.3871226,#N/A,#N/A
+Redwood Canyon Trails,10.9 miles,2185 feet,4.5,0,0,1,1,0,0,-118.9210431,36.7076252,MODERATE,Loop
+Redwood Trail,0.7 miles,39 feet,4.6,1,0,0,1,0,0,-124.0910157,41.224274,EASY,Loop
+Remington Hot Spring Trail,0.4 miles,187 feet,3.9,0,0,1,0,1,0,-118.5528767,35.5763711,MODERATE,Out & Back
+Reservoir Canyon Trail,5.4 miles,1397 feet,4.5,0,0,1,1,0,0,-120.6226844,35.2863102,#N/A,#N/A
+Rice Canyon Trail,3.5 miles,216 feet,3.9,1,0,0,0,1,0,-117.0841955,32.6400541,EASY,Out & Back
+Rim Trail,4.4 miles,731 feet,4.1,0,0,1,1,0,0,-122.155993,37.8780614,MODERATE,Loop
+Robie Point Firebreak Trail,5.5 miles,498 feet,4.1,0,0,1,0,1,0,-121.0586142,38.8976142,#N/A,#N/A
+Rock City to the Summit of Mount Diablo,7.6 miles,2201 feet,4.3,0,1,0,0,1,0,-121.9141528,37.8815913,#N/A,#N/A
+Rock Mountain Trail,1 miles,452 feet,3.6,0,0,1,0,1,0,-122.188824,37.8781282,MODERATE,Out & Back
+Rock Pool and Century Lake Trails,5.6 miles,367 feet,4.3,0,0,1,1,0,0,-118.7314142,34.0979551,#N/A,#N/A
+Rocky Peak Trail,7.3 miles,1574 feet,4.4,0,0,1,0,1,0,-118.6431477,34.3144612,#N/A,#N/A
+Rocky Ridge Loop Trail,4.7 miles,1085 feet,4.5,0,0,1,1,0,0,-122.0407758,37.8158101,MODERATE,Loop
+Rodeo Valley Trail To Miwok Trail Loop Via Coastal Trail,11.3 miles,2034 feet,4.5,0,1,0,1,0,0,-122.4996997,37.8261694,#N/A,#N/A
+Rose Canyon Trail,8.8 miles,511 feet,3.6,1,0,0,1,0,0,-117.2176154,32.8552341,EASY,Loop
+Rose Valley Falls (CLOSED),1.1 miles,213 feet,4.2,1,0,0,0,1,0,-119.1792758,34.5261015,#N/A,#N/A
+Round Top Loop Trail to Volcanic Trail to Skyline Trail Loop,3.5 miles,554 feet,4.1,0,0,1,1,0,0,-122.1906875,37.8514126,#N/A,#N/A
+Rubicon Trail,11.9 miles,1381 feet,4.7,0,0,1,0,1,0,-119.9852607,38.9288593,#N/A,#N/A
+Rubio Canyon Trail,1.8 miles,800 feet,3.7,0,0,1,0,1,0,-118.1236708,34.2000672,MODERATE,Out & Back
+Runyon Canyon Trail,2.4 miles,741 feet,4.1,0,0,1,1,0,0,-118.3503784,34.1106805,#N/A,#N/A
+Russian Ridge Trail,4.9 miles,902 feet,4.3,0,0,1,1,0,0,-122.2146019,37.3131237,#N/A,#N/A
+Rustic Canyon Loop Trail,4.6 miles,980 feet,3.9,0,1,0,1,0,0,-118.5093797,34.0654719,#N/A,#N/A
+Ryan Mountain Trail,2.7 miles,1062 feet,4.5,0,0,1,0,1,0,-116.1349489,33.994421,#N/A,#N/A
+Sacramento River Trail,5.5 miles,160 feet,4.4,1,0,0,1,0,0,-122.43937,40.6518404,EASY,Loop
+Sagehen Creek Trail,4.5 miles,223 feet,4.2,1,0,0,1,0,0,-120.2048391,39.4341875,#N/A,#N/A
+Salmon Creek Trail to Spruce and Estrella Camps,5.5 miles,1791 feet,4.3,0,0,1,0,1,0,-121.3409418,35.8351587,MODERATE,Out & Back
+San Gabriel Peak Trail,2.8 miles,1030 feet,4.5,1,0,0,0,1,0,-118.1004544,34.2419767,#N/A,#N/A
+San Jacinto Peak from The Tramway,9.6 miles,2562 feet,4.7,0,1,0,0,1,0,-116.6141062,33.8370537,#N/A,#N/A
+San Juan Rapids Trail,3.2 miles,131 feet,3.9,1,0,0,1,0,0,-121.2892217,38.6304337,EASY,Loop
+San Ysidro Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-119.6221188,34.4538357,#N/A,#N/A
+Sanborn Trails,4.5 miles,1541 feet,4.2,0,0,1,1,0,0,-122.06272,37.235352,#N/A,#N/A
+Santa Margarita River Trail,5 miles,469 feet,4.2,0,0,1,0,1,0,-117.2412379,33.4133099,#N/A,#N/A
+Santa Rosa Plateau Trail to Monument Hill,6 miles,390 feet,4.3,1,0,0,1,0,0,-117.2429967,33.5315974,EASY,Loop
+Santa Ynez Canyon Waterfall Trail,2.2 miles,275 feet,3.7,1,0,0,0,1,0,-118.5688037,34.0916891,#N/A,#N/A
+Santa Ysabel Preserve West Trail,5.6 miles,1174 feet,4.4,0,0,1,1,0,0,-116.6027862,33.1200946,MODERATE,Loop
+Santiago Oaks Trail,2.2 miles,475 feet,4.3,0,0,1,1,0,0,-117.7761679,33.8215337,#N/A,#N/A
+Santiago Peak Holy Jim Trail,15.9 miles,4163 feet,4.5,0,1,0,1,0,0,-117.5342131,33.7102973,#N/A,#N/A
+Sapphire Falls Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-117.62296,34.16224,#N/A,#N/A
+Saratoga Gap Long Ridge Loop Trail,9.8 miles,1784 feet,4.4,0,0,1,1,0,0,-122.1271264,37.2667835,#N/A,#N/A
+Saratoga Gap Trail and Ridge Trail Loop,5 miles,1167 feet,4.5,0,0,1,1,0,0,-122.1196648,37.2346817,#N/A,#N/A
+Satwiwa Loop and Old Boney Trail,4.3 miles,777 feet,4.1,1,0,0,1,0,0,-118.9733249,34.156215,#N/A,#N/A
+Satwiwa Loop Trail,3.6 miles,472 feet,4.2,1,0,0,1,0,0,-118.9733249,34.156215,EASY,Loop
+Sawyer Camp Trail,11.3 miles,479 feet,4.3,1,0,0,0,1,0,-122.3643625,37.5308679,#N/A,#N/A
+Schabarum Trail,3.6 miles,1000 feet,4.4,0,0,1,1,0,0,-117.870734,34.0448417,MODERATE,Loop
+Seaview and Big Springs Trails Loop,4.2 miles,997 feet,4.3,0,0,1,1,0,0,-122.2273252,37.8915076,#N/A,#N/A
+Sentinel Dome Trail,2.1 miles,456 feet,4.8,0,0,1,0,1,0,-119.5834763,37.7205455,#N/A,#N/A
+Sequoia Trail,3.9 miles,541 feet,4.3,0,0,1,1,0,0,-122.2116888,37.1797319,#N/A,#N/A
+Serrania Ridge Trail,2.4 miles,446 feet,4.1,0,0,1,0,1,0,-118.5865001,34.1490513,MODERATE,Out & Back
+Seven Springs Trail Loop,2.6 miles,561 feet,4.3,0,0,1,1,0,0,-122.056716,37.2933532,#N/A,#N/A
+Shadow of the Giants [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-119.5962368,37.4261733,#N/A,#N/A
+Shady Canyon Trail,7.8 miles,538 feet,3.8,1,0,0,0,1,0,-117.8085883,33.6298708,EASY,Out & Back
+Shealor Lake Trail,2.2 miles,692 feet,4.4,1,0,0,0,1,0,-120.1348718,38.655506,EASY,Out & Back
+Shelf Road Trail,3.5 miles,413 feet,4.2,1,0,0,0,1,0,-119.2369719,34.4646455,EASY,Out & Back
+Shell Beach Bluffs and Ontario Ridge,2.9 miles,738 feet,4.3,1,0,0,1,0,0,-120.7138322,35.1798099,EASY,Loop
+Shirley Canyon Cascades Trail,4.1 miles,1387 feet,4.6,0,1,0,0,1,0,-120.2403049,39.1998524,#N/A,#N/A
+Sierra Buttes Lookout Trail,5.1 miles,1391 feet,4.8,0,0,1,0,1,0,-120.6460585,39.5936777,#N/A,#N/A
+Signal Hill Trail,2.1 miles,252 feet,3.9,0,0,1,1,0,0,-122.3684089,37.8099068,#N/A,#N/A
+Skyline Drive,10.9 miles,2227 feet,4.3,0,0,1,0,1,0,-122.2233618,37.8294056,EASY,Out & Back
+Skyline Drive Trail to Water Tank,3.7 miles,885 feet,4.3,0,0,1,0,1,0,-117.6156199,33.8381721,#N/A,#N/A
+Skyline Trail,6.5 miles,1742 feet,4.4,0,0,1,1,0,0,-122.2337339,37.8088571,MODERATE,Loop
+Skyline Trail: Cactus to Clouds,28 miles,10091 feet,4.7,0,1,0,0,1,0,-116.5504223,33.8253111,#N/A,#N/A
+Skyline-to-the-Sea Trail,25.2 miles,2440 feet,4.3,0,1,0,0,0,1,-122.2344553,37.1755175,#N/A,#N/A
+Slacker Hill Trail,1 miles,347 feet,4.5,1,0,0,0,1,0,-122.4895763,37.8348696,EASY,Out & Back
+Sly Park Jenkinson Lake Loop Trail,7.6 miles,629 feet,4.2,0,0,1,1,0,0,-120.5485729,38.7257956,#N/A,#N/A
+Soberanes Canyon Trail,4.5 miles,1751 feet,4.6,0,1,0,1,0,0,-121.9148897,36.4578158,#N/A,#N/A
+Solstice Canyon Loop Trail,3.2 miles,797 feet,4.3,0,0,1,1,0,0,-118.755154,34.038993,#N/A,#N/A
+South Fork Trail to San Gorgonio Mountain via Mine Shaft Saddle,20.3 miles,4566 feet,4.7,0,1,0,1,0,0,-116.8247307,34.098954,HARD,Loop
+South Tufa Loop Trail,0.7 miles,29 feet,4.4,1,0,0,1,0,0,-119.1334891,37.9774243,EASY,Loop
+South Yuba Trail,19.8 miles,2942 feet,4.3,0,0,1,0,0,1,-121.1935665,39.2927268,MODERATE,Point to Point
+Split Rock Loop Trail,1.9 miles,252 feet,4.4,1,0,0,1,0,0,-116.0559079,34.0095602,EASY,Loop
+Spring Lake Loop,2.1 miles,29 feet,4.3,1,0,0,1,0,0,-122.0856765,37.9826793,EASY,Loop
+Spruce Grove Campground Trail,7.3 miles,1778 feet,4.5,0,0,1,0,1,0,-118.0306227,34.2208372,#N/A,#N/A
+Stagecoach Trail,3.6 miles,675 feet,4,0,0,1,0,1,0,-114.086708,34.649941,#N/A,#N/A
+Stanislaus River Trail From Knights Ferry,2.8 miles,236 feet,4.1,1,0,0,0,1,0,-120.6658538,37.8195325,EASY,Out & Back
+Steep Canyon Trail,1.6 miles,456 feet,4.3,0,0,1,1,0,0,-117.806572,34.0070084,#N/A,#N/A
+Stelzer Park Loop Trail,2.6 miles,620 feet,3.9,0,0,1,1,0,0,-116.8969759,32.8833435,MODERATE,Loop
+Stevens Trail,9 miles,1735 feet,4.5,0,0,1,0,1,0,-120.9428399,39.1047375,#N/A,#N/A
+Stevens Trail East,6.4 miles,1830 feet,4.2,0,0,1,0,1,0,-120.9428399,39.1047375,MODERATE,Out & Back
+Stonewall Peak Trail,3.4 miles,813 feet,4.6,1,0,0,0,1,0,-116.5718654,32.9641694,#N/A,#N/A
+Stout Memorial Grove Trail,0.7 miles,36 feet,4.5,1,0,0,1,0,0,-124.084822,41.7896872,EASY,Loop
+Strawberry Canyon Fire Trail,7.2 miles,803 feet,4.3,0,0,1,0,1,0,-122.243068,37.877669,#N/A,#N/A
+Suicide Rock Trail,6.7 miles,1883 feet,4.5,0,0,1,0,1,0,-116.69724,33.7708532,#N/A,#N/A
+Sullivan Canyon Trail,9.6 miles,1410 feet,4,0,0,1,0,1,0,-118.5200076,34.0990173,#N/A,#N/A
+Sunken City [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-118.2918421,33.7064,#N/A,#N/A
+Sunset Cliffs Park Trail,1.7 miles,150 feet,4.4,1,0,0,0,1,0,-117.2548558,32.718002,#N/A,#N/A
+Sunset Trail to Laguna Meadows Loop,8.2 miles,715 feet,4.6,1,0,0,1,0,0,-116.4632784,32.8808926,#N/A,#N/A
+Sweeney Ridge Trail via Mori Ridge,4.6 miles,1085 feet,3.9,0,0,1,0,1,0,-122.4586021,37.6110486,MODERATE,Out & Back
+Sweeney Ridge Trail via Sneath Lane,7.7 miles,1669 feet,4.2,0,0,1,0,1,0,-122.4586021,37.6110486,#N/A,#N/A
+Sweetwater Trail,5 miles,282 feet,3.9,0,0,1,0,1,0,-122.0805755,37.9897037,MODERATE,Loop
+Sycamore Canyon Park Trail,4.6 miles,718 feet,4.2,0,0,1,1,0,0,-117.8144738,34.0092672,EASY,Loop
+Sycamore Canyon Preserve,6.5 miles,994 feet,4.1,0,0,1,1,0,0,-116.9805584,32.9412155,#N/A,#N/A
+Sycamore Canyon Trail,3.3 miles,311 feet,4.1,1,0,0,0,1,0,-119.014292,34.074861,#N/A,#N/A
+Sykes Hot Springs via Pine Ridge Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-121.7329228,36.2474665,#N/A,#N/A
+Table Rock Trail,3.8 miles,1204 feet,4.5,0,0,1,0,1,0,-82.6941347,35.0194038,MODERATE,Out & Back
+Taft Point and The Fissures,2.3 miles,374 feet,4.7,1,0,0,0,1,0,-119.6046084,37.7129827,#N/A,#N/A
+Tahquitz Peak via Devils Slide Trail,8.3 miles,2299 feet,4.7,0,0,1,0,1,0,-116.6859617,33.7645954,#N/A,#N/A
+Tahquitz Peak via South Ridge Trail,7.9 miles,2352 feet,4.6,0,0,1,0,1,0,-116.6761288,33.7558539,#N/A,#N/A
+Tanbark Trail and Tin House [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-121.6812651,36.1788961,#N/A,#N/A
+Tangerine Falls Trail (CLOSED),2.4 miles,980 feet,4.4,0,1,0,0,1,0,-119.6532821,34.4560367,#N/A,#N/A
+Tar Creek [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-118.9505211,34.490843,#N/A,#N/A
+Taylor Mountain: Western to Eastern Route,5 miles,1322 feet,4.1,0,1,0,1,0,0,-122.6747084,38.400746,HARD,Loop
+Tecolote Canyon Trail,4.1 miles,498 feet,3.9,0,0,1,0,1,0,-117.197351,32.7755155,#N/A,#N/A
+Tehachapi Mountain Trail,5.1 miles,1991 feet,4.2,0,0,1,0,1,0,-118.4949105,35.0849059,#N/A,#N/A
+Telegraph Canyon North Ridge Loop Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-117.8037002,33.914372,#N/A,#N/A
+Temelpa Trail,4.4 miles,1781 feet,4.4,0,0,1,1,0,0,-122.5623788,37.9202382,MODERATE,Loop
+Temescal Canyon Trail,2.9 miles,875 feet,4.3,0,0,1,1,0,0,-118.5301197,34.0595374,#N/A,#N/A
+Tenaja Falls,2.2 miles,344 feet,4.2,0,0,1,0,1,0,-117.3983649,33.5558946,MODERATE,Out & Back
+Tennessee Valley Trail,3.4 miles,170 feet,4.4,1,0,0,0,1,0,-122.5283808,37.8690443,#N/A,#N/A
+Tequepis Trail [CLOSED],0 miles,0 feet,0,0,0,0,0,0,0,-119.9555863,34.534695,#N/A,#N/A
+The Cross Trail,2.6 miles,643 feet,4.2,1,0,0,0,1,0,-116.39863,33.70587,#N/A,#N/A
+The Goat Trails [PRIVATE PROPERTY],0 miles,0 feet,0,0,0,0,0,0,0,-116.5005267,33.781654,#N/A,#N/A
+The Living Desert Wilderness Loop Trail,4.8 miles,793 feet,4.2,0,0,1,1,0,0,-116.3744166,33.6999789,MODERATE,Loop
+The Medicine Buddha Loop Trail [PRIVATE PROPERTY],0 miles,0 feet,0,0,0,0,0,0,0,-121.9341703,37.0109339,#N/A,#N/A
+The Needles Trail,4.4 miles,1220 feet,4.5,0,0,1,0,1,0,-118.508499,36.119746,MODERATE,Out & Back
+The Power House,0.8 miles,91 feet,4,1,0,0,0,1,0,-117.52322,33.95381,EASY,Out & Back
+The Riser to Kaiser,9.9 miles,3228 feet,4.7,0,1,0,0,1,0,-119.1828683,37.2946655,HARD,Out & Back
+The Slot,2.3 miles,301 feet,4.5,1,0,0,1,0,0,-119.0163787,37.6293082,#N/A,#N/A
+Three Bridges Oak Preserve Trail,3 miles,646 feet,4.6,0,0,1,1,0,0,-120.6877627,35.4585652,MODERATE,Loop
+Three Sisters Waterfalls Trail,3.5 miles,1036 feet,4.6,0,1,0,0,1,0,-116.6839993,32.9810201,#N/A,#N/A
+Tin Mine Canyon Trail,4.5 miles,695 feet,4.2,1,0,0,0,1,0,-117.609918,33.8361485,EASY,Out & Back
+Tokopah Valley Trail to Tokopah Falls,3.7 miles,567 feet,4.6,1,0,0,0,1,0,-118.6900976,36.6085538,#N/A,#N/A
+Tomales Point Trail,9.4 miles,1190 feet,4.6,0,0,1,0,1,0,-122.974766,38.2143777,#N/A,#N/A
+Towsley Canyon Loop Trail,5.6 miles,1443 feet,4.4,0,1,0,1,0,0,-118.5620314,34.3576589,#N/A,#N/A
+Trabuco Creek Road,10.7 miles,961 feet,3.7,0,0,1,0,1,0,-117.5515028,33.6722176,MODERATE,Out & Back
+Trail Canyon Falls,10.9 miles,3143 feet,4.3,0,0,1,0,1,0,-118.2554931,34.3204227,#N/A,#N/A
+Trail of 100 Giants,1.3 miles,121 feet,4.5,1,0,0,1,0,0,-118.5940056,35.9773277,#N/A,#N/A
+Training Hill,3.8 miles,895 feet,4.5,0,1,0,1,0,0,-121.0383939,38.9110918,#N/A,#N/A
+Trillium Falls Trail,2.6 miles,433 feet,4.5,0,0,1,1,0,0,-124.0451908,41.3215949,#N/A,#N/A
+Trippet Ranch to Eagle Springs Loop Trail,6.3 miles,1197 feet,4.5,1,0,0,1,0,0,-118.5884911,34.0932462,EASY,Loop
+Tuolumne Grove Trail,3.2 miles,734 feet,4.2,0,0,1,0,1,0,-119.805421,37.7581939,#N/A,#N/A
+Tuolumne Table Mountain,4.6 miles,679 feet,4.4,0,0,1,1,0,0,-120.434362,37.98298,#N/A,#N/A
+Turnbull Canyon Trail,4.3 miles,731 feet,4.3,0,0,1,1,0,0,-118.0139737,33.9949781,#N/A,#N/A
+Turtle Rock Trail,1.6 miles,324 feet,4.2,0,0,1,0,1,0,-117.8100133,33.6451679,MODERATE,Out & Back
+Twin Lakes Trail,6.8 miles,1571 feet,4.6,0,0,1,0,1,0,-122.8220844,48.6680439,#N/A,#N/A
+Twin Peaks Trail,1.6 miles,597 feet,4,0,0,1,1,0,0,-117.0328058,32.9818217,MODERATE,Loop
+UC Davis Arboretum Trail,3.6 miles,82 feet,4,1,0,0,1,0,0,-121.7617532,38.5304495,EASY,Loop
+UCR Botanic Garden Trails,2.2 miles,318 feet,4.2,1,0,0,1,0,0,-117.320556,33.971632,EASY,Loop
+Unal Trail,3.3 miles,725 feet,4.5,1,0,0,1,0,0,-118.5669717,35.7227587,EASY,Loop
+Upper and Lower Winter Creek Trail Loop,4.4 miles,1125 feet,4.4,0,0,1,1,0,0,-118.0225668,34.170839,#N/A,#N/A
+Upper Hot Spring Canyon to Falls Trail,3.2 miles,419 feet,3.8,1,0,0,0,1,0,-117.5243556,33.5880957,#N/A,#N/A
+Upper Natural Bridge Trail,2.1 miles,380 feet,4.4,1,0,0,0,1,0,-120.4712441,38.0518659,#N/A,#N/A
+Upper Otay Reservoir,2.1 miles,157 feet,3.6,0,0,1,1,0,0,-116.9340954,32.6507185,MODERATE,Loop
+Upper Yosemite Falls Trail,5 miles,3175 feet,4.8,0,1,0,0,1,0,-119.5812189,37.7717631,#N/A,#N/A
+Uvas Canyon Waterfalls,0 miles,0 feet,0,0,0,0,0,0,0,-121.7918587,37.0851648,#N/A,#N/A
+Valido Trail,1.1 miles,331 feet,4.4,0,0,1,0,1,0,-117.7421091,33.5079308,#N/A,#N/A
+Valley Floor Loop Trail,20.4 miles,1164 feet,4.2,1,0,0,1,0,0,-119.608162,37.7371367,EASY,Loop
+Valley View Overlook ,1.7 miles,544 feet,3.8,0,0,1,0,1,0,-111.1977743,32.2770562,MODERATE,Out & Back
+Vasquez Rocks Trail ,2.9 miles,462 feet,4.3,0,0,1,1,0,0,-118.3206939,34.4885098,#N/A,#N/A
+Venice Canals Trail,2.1 miles,3 feet,4.3,1,0,0,1,0,0,-118.46698,33.9838549,EASY,Loop
+Verdugo Crest Trail,7.5 miles,2194 feet,4.3,0,1,0,1,0,0,-121.3857233,40.7542152,#N/A,#N/A
+Vernal and Nevada Falls via the Mist Trail,6.4 miles,2188 feet,4.8,0,0,1,1,0,0,-119.5395383,37.7265348,#N/A,#N/A
+Veteran's Park Trail,0 miles,0 feet,0,0,0,0,0,0,0,-118.4195709,34.3260716,#N/A,#N/A
+Viejas Mountain Trail,3.1 miles,1473 feet,4.2,0,1,0,0,1,0,-116.7258546,32.8611624,#N/A,#N/A
+Vikingsholm Trail,1.7 miles,377 feet,4.3,0,0,1,0,1,0,-120.1069063,38.9522421,#N/A,#N/A
+Villa Montalvo Trail,1.9 miles,515 feet,4.2,0,0,1,1,0,0,-122.0309211,37.2422736,#N/A,#N/A
+Visitor Center Loop Trail,1.4 miles,160 feet,4.1,1,0,0,1,0,0,-117.0596148,32.8223077,#N/A,#N/A
+Vital Link Trail,3.2 miles,1699 feet,4.5,0,1,0,0,1,0,-118.2906661,34.2123105,#N/A,#N/A
+Vivian Creek Trail to San Gorgonio Peak,17.1 miles,5452 feet,4.7,0,1,0,0,1,0,-116.8247307,34.098954,#N/A,#N/A
+Volcan Mountain Trail,4.9 miles,1227 feet,4.5,0,0,1,0,1,0,-116.5824219,33.1129685,#N/A,#N/A
+Walk Across the Golden Gate Bridge,3.7 miles,137 feet,4.6,1,0,0,0,1,0,-122.4782551,37.8199286,EASY,Out & Back
+Wapama Falls Trail,4.6 miles,954 feet,4.4,1,0,0,0,1,0,-119.7657412,37.9664236,#N/A,#N/A
+Waterfalls of Mount Diablo Loop Trail,6 miles,1335 feet,4.5,0,0,1,1,0,0,-121.9141528,37.8815913,#N/A,#N/A
+Waterman Mountain Loop Trail,5.8 miles,1302 feet,4.4,0,0,1,1,0,0,-117.9215316,34.3469597,#N/A,#N/A
+Way Up Trail to Harmony Grove Overlook,2 miles,521 feet,4.4,0,0,1,1,0,0,-117.1450871,33.0865796,MODERATE,Loop
+Weaver Lake Trail,6.5 miles,1250 feet,4.5,0,0,1,0,1,0,-118.6675985,36.6832751,#N/A,#N/A
+Weir Canyon Trail,3.5 miles,738 feet,4.3,1,0,0,1,0,0,-117.7396599,33.8343196,#N/A,#N/A
+West Ridge and French Trail Loop,7.4 miles,1374 feet,4.6,0,1,0,1,0,0,-122.1828133,37.8264145,HARD,Loop
+West Ridge Stream Trail Loop Trail,6.1 miles,994 feet,4.4,1,0,0,1,0,0,-122.1444402,37.8020533,EASY,Loop
+West Side Railroad Trail to the Tuolumne North Fork,9.9 miles,1036 feet,4.1,0,0,1,0,1,0,-120.2267636,37.9731203,MODERATE,Out & Back
+Western Pacific Trail,3.6 miles,39 feet,4,1,0,0,1,0,0,-121.3857233,40.7542152,EASY,Loop
+Whiskeytown Falls Trail,2.7 miles,761 feet,4.5,0,0,1,0,1,0,-122.6692,40.6263999,MODERATE,Out & Back
+White Mountain Peak Trail,11.1 miles,2657 feet,4.6,0,1,0,0,1,0,-118.2557392,37.6343543,HARD,Out & Back
+Whitemore Gulch and Purisima Creek Loop Trail,9.8 miles,2185 feet,4.5,0,0,1,1,0,0,-122.3451131,37.4354155,#N/A,#N/A
+Whitewater Canyon Loop Trail,3.6 miles,708 feet,4.5,0,0,1,1,0,0,-116.6479771,33.9587934,#N/A,#N/A
+Whiting Ranch Trail,6 miles,721 feet,4.3,0,0,1,1,0,0,-117.646418,33.6978495,#N/A,#N/A
+Whitney Canyon Park Trail,2.9 miles,255 feet,4.2,1,0,0,0,1,0,-118.5003067,34.3652895,#N/A,#N/A
+Whittemore Gulch and Harkins Ridge Loop Trail,6.8 miles,1692 feet,4.5,0,1,0,1,0,0,-122.3451131,37.4354155,#N/A,#N/A
+Wilder Ridge Trail,8 miles,849 feet,4,0,0,1,1,0,0,-122.0939673,36.9753052,MODERATE,Loop
+Wildwood Canyon Trail,2.6 miles,918 feet,4.4,0,0,1,0,1,0,-118.2906661,34.2123105,MODERATE,Loop
+Wildwood Park Lizard Rock Trail,4.1 miles,695 feet,4.2,0,0,1,1,0,0,-118.9101791,34.2175513,#N/A,#N/A
+Willow Canyon Trail,3.4 miles,600 feet,4.3,0,0,1,1,0,0,-117.767601,33.5868232,MODERATE,Loop
+Willow Creek Trail,3.6 miles,705 feet,4,0,0,1,1,0,0,-119.5709,37.33101,MODERATE,Out & Back
+Willow Hole Trail,6.8 miles,246 feet,4.2,0,0,1,0,1,0,-116.1537429,34.0684895,#N/A,#N/A
+Wind Wolves Preserve Trail,7.8 miles,915 feet,4.4,1,0,0,1,0,0,-119.185309,34.99432,#N/A,#N/A
+Woodland Trail,1.6 miles,232 feet,4.4,1,0,0,1,0,0,-116.8888235,34.2635033,#N/A,#N/A
+Woodson Mountain via Hwy 67,4.1 miles,1220 feet,4.3,0,0,1,0,1,0,-117.0132431,33.0064968,#N/A,#N/A
+Wright Peak Summit Trail,7.6 miles,1916 feet,4.5,0,1,0,0,1,0,-122.79312,38.9659,HARD,Out & Back
+Zumwalt Meadow And Roaring River Falls,4 miles,291 feet,4.3,1,0,0,1,0,0,-118.6209327,36.7804955,#N/A,#N/A

@@ -1,0 +1,28 @@
+---
+title: "ASSETS"
+author: "Ankush Garg"
+date: "4/24/2018"
+output: 
+  html_document:
+    toc: true
+    number_sections: false
+    theme: lumen
+    highlight: espresso
+---
+
+## 1. Data - In data folder of the project hike_recommender
+#### 1.Hike_scraped.csv
+##### Includes hikes and associated attributes 
+
+#### 2.Out.csv 
+##### Includes hikes_scraped and users' names and ratings
+
+## 2. Item based Collaborative Filtering 
+#### Code in munge folder 
+##### Based on individual ratings, IBCF system built by evaluating cosine similarity and sorted based on the shortest distance for similarity among hikes
+
+#####                            Calculate weighted scores
+$$cos(x,y)=\frac{x.y}{||x||.||y||}$$
+
+
+

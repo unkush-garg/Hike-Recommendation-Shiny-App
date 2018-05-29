@@ -1,0 +1,39 @@
+---
+title: "project-performance"
+author: "Ankush Garg"
+date: "4/16/2018"
+output: 
+  html_document:
+    toc: true
+    number_sections: false
+    theme: lumen
+    highlight: espresso
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Calculate weighted scores  
+$$(WR)=R\frac{v}{v+m}+C\frac{m}{v+m}$$
+
+#### v = Number of reviews
+
+#### m = Minimum reviews in 90th percentile
+
+#### R = Average rating
+
+#### C = Mean of rating
+
+## Results
+
+1. Half Dome Trail (score = 4.787283)
+
+2. Vernal and Nevada Falls via the Mist Trail (score = 4.740623)
+
+3. Mount Whitney via Mount Whitney Trail (score = 4.719085)
+
+4. Upper Yosemite Falls Trail (score = 4.708159)
+
+5. Mount Tallac Trail (score = 4.685567)
+

@@ -1,0 +1,22 @@
+---
+title: "Ratings_graphs"
+author: "Ankush Garg"
+date: "4/24/2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ratings distribution
+```{r, fig.width = 4}
+# Bigger fig.width
+include_graphics("/Users/ankushgarg/project/hike_recommender/graphs")
+```
+```{r}
+
+```
+

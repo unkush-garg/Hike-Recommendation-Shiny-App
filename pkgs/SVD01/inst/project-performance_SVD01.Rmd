@@ -1,0 +1,24 @@
+---
+title: "project-performance_SVD01"
+author: "Ankush Garg"
+date: "5/8/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Model 
+
+r.svd <- Recommender(getData(div, "train"), "SVD")
+
+##Performance 
+
+
+####RMSE - 2.616587 
+ 
+####MSE - 6.846527
+ 
+####MAE - 1.471378 
+  

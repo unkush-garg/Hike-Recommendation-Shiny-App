@@ -1,0 +1,52 @@
+---
+title: "Formal proposal document"
+subtitle: "Name of the project"
+author: "Individual working on the document"
+date: "Current date"
+output: 
+  html_document:
+    toc: true
+    number_sections: false
+    theme: lumen
+    highlight: espresso
+---
+
+## Summary
+
+The goal of this project is to [project proposal here]. Detail out what the purpose of the project is. 
+
+## Background
+
+Provide background information on the requirement and use this section to detail out what it is that the project is accomplishing. Who the clients is, and what do they need to improved their status. 
+
+## Project plan and timeline
+
+At a high level, propose a workable timeline and tasks here. This is likely to be the section that changes due to scope creep.  
+
+## Project Benefits
+
+Quantifiable benefits of the project. 
+
+## Success criteria 
+
+What makes this project successful? What are some measureable benefits that the company can expect from this project?
+
+## Key Stakeholders
+
+People involved in the project.
+
+## Risks
+
+Potential known risks.
+
+## Risk mitigation
+
+Strategies to address potential risks that are known. 
+
+## Deployment 
+
+How the users will interact and other deployment strategies. 
+
+## Long-term plans
+
+Any enhancements to iterate over time. 
