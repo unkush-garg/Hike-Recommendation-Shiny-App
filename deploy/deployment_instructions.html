@@ -123,23 +123,26 @@ $(document).ready(function () {
 <ol style="list-style-type: decimal">
 <li><p>In the project repository, unbundle “packrat-final-2018-05-27.tar.gz” using packrat.</p></li>
 <li><p>Filepath = “…./csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz”</p></li>
+<li><p>The ….. in front of before the csx415 is the location where you’ve cloned the repository.</p></li>
 </ol>
-<p>The ….. in front of before the csx415 is the location where you’ve cloned the repository.</p>
 <div id="follow-steps-below-to-unpack-the-bundle" class="section level3">
 <h3>Follow steps below to unpack the bundle</h3>
 <ol style="list-style-type: decimal">
-<li><p>Set “…./csx415-project/hike_recommender/app/” as the working directory</p></li>
+<li><p>Set “…./csx415-project/hike_recommender/” as the working directory</p></li>
 <li><p>install.packages“packrat”</p></li>
 <li><p>library(packrat)</p></li>
-<li><p>packrat::unbundle(<em>“…./csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz”</em>, where = “.”)</p></li>
+<li><p>packrat::unbundle(<em>“…./csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz”</em>, where = “…./csx415-project/hike_recommender/”)</p></li>
+<li><p>Packrat will install all package dependencies required for the application to run in 1 go</p></li>
+<li><p>packrat-final folder is generated in the hike_recommender folder</p></li>
+<li><p>open packrat-final.Rproj file and switch projects</p></li>
+<li><p>Switching projects to the unbundled packrat-final.Rproj ensures that all packages required for the application to run are available</p></li>
 </ol>
-<p>Packrat will install all package dependencies required for the application to run in 1 go.</p>
 </div>
 </div>
 <div id="run-shiny-application" class="section level2">
 <h2>Run Shiny application</h2>
 <ol style="list-style-type: decimal">
-<li><p>Open helpercode.R file in the <em>“…./csx415-project/hike_recommender/app/”</em> which should already be set to the working directory</p></li>
+<li><p>Open helpercode.R file in the <em>“…./csx415-project/hike_recommender/app/”</em></p></li>
 <li><p>Open <em>app_working_manhattan.R</em> in same folder - <em>this is where the shiny application code is placed</em></p></li>
 <li><p>Look for Run App in RStudio to run the application</p></li>
 </ol>

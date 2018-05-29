@@ -17,29 +17,35 @@ output:
 
 2. Filepath = "..../csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz"
 
-The ..... in front of before the csx415 is the location where you've cloned the repository.
+3. The ..... in front of before the csx415 is the location where you've       cloned the repository.
 
 
 ### Follow steps below to unpack the bundle 
 
-1. Set "..../csx415-project/hike_recommender/app/" as the working directory 
+1. Set "..../csx415-project/hike_recommender/" as the working directory 
 
 2. install.packages"packrat" 
 
 3. library(packrat)
 
-4. packrat::unbundle(*"..../csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz"*, where = ".")
+4. packrat::unbundle(*"..../csx415-project/hike_recommender/app/packrat-final/packrat/bundles/packrat-final-2018-05-27.tar.gz"*, where = "..../csx415-project/hike_recommender/")
 
-Packrat will install all package dependencies required for the application to run in 1 go. 
+5. Packrat will install all package dependencies required for the application to run in 1 go
+
+6. packrat-final folder is generated in the hike_recommender folder
+
+7. open packrat-final.Rproj file and switch projects 
+
+8. Switching projects to the unbundled packrat-final.Rproj ensures that all    packages required for the application to run are available
+
 
 ## Run Shiny application 
 
-1. Open helpercode.R file in the *"..../csx415-project/hike_recommender/app/"* which should already be set to the working directory
+1. Open helpercode.R file in the *"..../csx415-project/hike_recommender/app/"* 
 
 2. Open *app_working_manhattan.R* in same folder - *this is where the shiny application code is placed*
 
 3. Look for Run App in RStudio to run the application
-
 
 ## Choose a hike and get recommendations
 
